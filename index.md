@@ -15,7 +15,7 @@ There are no prerequisites for this tutorial.
 ## Tutorial events
 This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-rse.org/events/2025/2025-06-education-training-talk/). 
 
-*Have you taught this lesson? Let us know and we'll add your event and recording to the list above.*
+*Have you taught this lesson? Make a pull request to add your event and recording to the list above.*
 
 ## Contributing
 This lesson could use your help! Please see the CONTRIBUTING.md file for instructions.
