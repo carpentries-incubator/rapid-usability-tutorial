@@ -6,9 +6,9 @@ site: sandpaper::sandpaper_site
 This lesson is a five episode training on rapid usability testing. The lesson is intended to be delivered via Zoom and the exercises reflect this, though you can modify the materials for an in person workshop or other delivery format. 
 
 This lesson should teach you to:
-* Identify scenarios and tasks appropriate for rapid usability testing
-* Recruit for a user study and track participants’ data
-* Conduct and analyze results from a rapid usability assessment
+- Identify scenarios and tasks appropriate for rapid usability testing
+- Recruit for a user study and track participants’ data
+- Conduct and analyze results from a rapid usability assessment
 
 There are no prerequisites for this tutorial.
 
@@ -20,17 +20,17 @@ This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-
 ## Contributing
 This lesson could use your help! Please see the CONTRIBUTING.md file for instructions.
 
-The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/). The team's thanks go to current and past contributors who have provided content, examples, suggestions, and inspiration:
-* Hannah Cohoon
-* Mary Goldman
-* Kate Arneson
-* Rajshree Deshmukh
-* Cody O'Donnell
-* Eriol Fox
-* Anh Le
-* Drew Paine
-* Lavanya Ramakrishnan
-* Maryam Vareth
+The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/). The team's thanks go to current and past contributors:
+- Kate Arneson (content development, feedback)
+- Hannah Cohoon (content development, presentation)
+- Rajshree Deshmukh (feedback, presentation)
+- Eriol Fox (content development, feedback)
+- Mary Goldman (content development, feedback, presentation)
+- Anh Le (content development, feedback)
+- Cody O'Donnell (feedback)
+- Drew Paine (feedback)
+- Lavanya Ramakrishnan (feedback)
+- Maryam Vareth (feedback)
 
 ## Citation
 
