@@ -642,7 +642,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-preparing"><p>Content from <a href="preparing.html"></a></p>
 <hr>
-<p>Last updated on 2025-07-02 |
+<p>Last updated on 2025-07-22 |
 
         <a href="https://github.com/strudel-science/rapid-usability-tutorial/edit/main/episodes/preparing.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -655,6 +655,13 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner">
 <h3 class="card-title">Questions</h3>
+<ul>
+<li>What makes a good task for rapid usability testing?</li>
+<li>What metrics are typically used in rapid usability testing?</li>
+<li>How do I structure a participant’s session?</li>
+<li>What should I say to my participants?</li>
+<li>What is pilot testing?</li>
+</ul>
 </div>
 </div>
 </div>
@@ -662,14 +669,179 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
+<ul>
+<li>Articulate task prompts for rapid usability test</li>
+<li>Determine metrics for addressing your research question</li>
+<li>Develop a usability test script</li>
+<li>Prepare a usability test environment</li>
+<li>Describe the benefits and risks of a pilot study</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-<section><h2 class="section-heading" id="fixme-body-here">FIXME body here<a class="anchor" aria-label="anchor" href="#fixme-body-here"></a>
+<section><h2 class="section-heading" id="defining-tasks-for-rapid-usability-testing">Defining tasks for rapid usability testing<a class="anchor" aria-label="anchor" href="#defining-tasks-for-rapid-usability-testing"></a>
 </h2>
 <hr class="half-width">
+<p>A task should be something that users actually want to do that can be
+accomplished in a short period of time. When defining tasks for your
+rapid usability test, keep in mind that you usually don’t want to test
+users’ reading comprehension—you want to test the usability of the
+interface. Thus, avoid using terms visible in the interface in your task
+description. Nielsen Norman <a href="https://www.nngroup.com/articles/better-usability-tasks/" class="external-link">has
+additional advice</a> on how to craft good task prompts.</p>
+<div class="section level3">
+<h3 id="example-being-goal-oriented-and-avoiding-language-from-the-user-interface">Example: Being goal oriented and avoiding language from the user
+interface<a class="anchor" aria-label="anchor" href="#example-being-goal-oriented-and-avoiding-language-from-the-user-interface"></a>
+</h3>
+<figure><img src="../fig/ep2ex_avoidLang" alt="A screenshot of Slack that shows 'Reply in thread' as tooltip content." class="figure mx-auto d-block"></figure><p>After you’ve selected tasks for your usability study, time yourself
+completing study tasks to establish a baseline. To prevent fatigue, you
+want to aim for your session to be under 30 minutes. Allowing 10 minutes
+for non-task activities like instructions and interview questions means
+you should have no more than 20 minutes for task completion. Reduce the
+number or complexity of tasks you have planned if needed.</p>
+</div>
+</section><section><h2 class="section-heading" id="selecting-your-evaluation-criteria">Selecting your evaluation criteria<a class="anchor" aria-label="anchor" href="#selecting-your-evaluation-criteria"></a>
+</h2>
+<hr class="half-width">
+<p>To answer your research questions, you need metrics. Determine what
+these will be before you start collecting data. The number and choice of
+metrics will be a judgment call only you and your team can make. Metrics
+might be countable and observable things like seconds or minutes, number
+of clicks, or number of errors. Metrics could also be gathered via a
+survey question that uses a scale, such as confidence on a scale (1, not
+at all confident – 5, completely confident) or level of agreement that
+the tool has the needed functionality (1, strongly disagree – 5,
+strongly agree).</p>
+<div id="exercise-3-evaluating-ease" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="exercise-3-evaluating-ease" class="callout-inner">
+<h3 class="callout-title">Exercise 3: Evaluating ease</h3>
+<div class="callout-content">
+<p>Assume you wanted to know how easy it is for Slack users to send
+threaded replies. You will assign users the task, “Show how you would
+participate in multiple, separate conversations in one channel.”</p>
+<p>In the Zoom poll, choose two metrics from below that you could use in
+your study.</p>
+<table class="table">
+<colgroup><col width="100%"></colgroup>
+<thead><tr class="header">
+<th>Metric</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>
+<em>Successes</em>: Number of participants who successfully complete
+a task.</td>
+</tr>
+<tr class="even">
+<td>
+<em>Errors</em>: Number of mistakes made while attempting a task,
+possibly broken down by error type.</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Clicks</em>: Clicks: Number of clicks participants make when
+completing a task; a proxy for complexity or efficiency.</td>
+</tr>
+<tr class="even">
+<td>
+<em>Completion time</em>: Time taken to complete a task.</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Idle time</em>: Periods of inactivity during a task, indicating
+confusion or hesitation.</td>
+</tr>
+<tr class="even">
+<td>
+<em>Drop-off rate</em>: Percentage of participants who stop a task
+before completing it.</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Self-reported ease</em>: Participants’ rating of how easy or
+difficult a task was to complete.</td>
+</tr>
+<tr class="even">
+<td>
+<em>Self-reported satisfaction</em>: Participants’ rating of how
+satisfied they are with the interface or experience.</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Self-reported usefulness</em>: Participants’ rating of how
+useful the tool or service is.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
+  <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
+</button>
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div class="accordion-body">
+<p>Successes, errors, and self-reported ease are fairly natural choices
+here but the choice of metrics is up to you and depends on what you want
+to know about. Some metrics like clicks or idle time might be easier to
+collect with specialized software but a screen recording can get you
+pretty far.</p>
+</div>
+</div>
+</div>
+</div>
+<p>Because you are likely evaluating success or counting errors, you
+should define what success looks like. Just like there are multiple ways
+to make errors, there may be multiple ways of achieving success.</p>
+<div class="section level3">
+<h3 id="example-success-and-errors-can-mean-multiple-things">Example: Success and Errors can mean multiple things<a class="anchor" aria-label="anchor" href="#example-success-and-errors-can-mean-multiple-things"></a>
+</h3>
+<p>Given a single task (“Show how you would participate in multiple,
+separate conversations in one channel”), success can still be achieved
+in multiple ways: <img src="../fig/ep2ex_multiMeaning" alt="A screenshot of Slack that shows someone tagging another person in a comment and another person replying in a thread." class="figure"></p>
+</div>
+</section><section><h2 class="section-heading" id="developing-a-script">Developing a script<a class="anchor" aria-label="anchor" href="#developing-a-script"></a>
+</h2>
+<hr class="half-width">
+<p>It is important that you give each of your participants the same
+experience when they join your study, so that results are comparable
+across participants. You want to avoid giving hints or causing
+confusion. You also want participants to feel comfortable talking with
+you. Following a script and prepping the test environment will make sure
+you succeed in these goals. The script should cover everything you’ll
+say to a participant so that someone else can stand in for you and still
+run the exact same study.</p>
+<div class="section level3">
+<h3 id="example-script-for-a-study-investigating-the-ease-of-sending-direct-messages">Example: Script for a study investigating the ease of sending direct
+messages<a class="anchor" aria-label="anchor" href="#example-script-for-a-study-investigating-the-ease-of-sending-direct-messages"></a>
+</h3>
+<figure><img src="../fig/ep2ex_script" alt="A script for an interview shown along side four phases: orientation, rapport building, presenting tasks, and wrap up." class="figure mx-auto d-block"></figure>
+</div>
+<div class="section level3">
+<h3 id="example-asking-survey-questions-with-anonymous-ids">Example: Asking survey questions with anonymous IDs<a class="anchor" aria-label="anchor" href="#example-asking-survey-questions-with-anonymous-ids"></a>
+</h3>
+<p>Often, when verbally asked a question that uses a Likert style scale
+(e.g., “On a scale of one to five, how easy was this task for you?”),
+participants will hesitate to provide a number and might give a more
+expansive answer. We recommend sending <a href="https://docs.google.com/document/d/17ojRiqvnWwkDYMTYNXFed0BcuZnLZEyTCpsh_Rl2bcU/edit?tab=t.0#heading=h.1hjb3shsggu" class="external-link">self-report
+questions</a> like this as survey questions instead of asking them out
+loud. Google Forms are a simple way to do this.</p>
+<figure><img src="../fig/ep2ex_form" alt="A screenshot of Google Forms showing two questions: What is your participant ID? and Overall the task was 'blank.' The second question has the option to respond on a 1-5 scale of very easy to very difficult." class="figure mx-auto d-block"></figure><p>After you have prepared your script, ask someone to help you pilot
+(i.e., test out) your study. Ideally you would do this pilot with
+someone who would make a good participant, but that benefit should be
+balanced against the need to include eligible people in your actual
+study. Run the pilot session exactly as you would a real session and
+keep track of any needed changes to your script; it’s very important
+that the tasks themselves are easily understood. This is also an
+opportunity to ensure the study takes an appropriate amount of time. Run
+multiple pilots if needed.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -677,7 +849,55 @@ any links that you are not going to use.
 <div class="callout-inner">
 <h3 class="callout-title">Key Points</h3>
 <div class="callout-content">
-
+<ul>
+<li>Rapid usability testing should involve observing participants for no
+more than an hour, preferably less than 30 minutes. Choose the number of
+tasks you ask participants to complete based on your priorities and how
+much time you have available.</li>
+<li>Task prompts should be goals users might have and should not use
+language visible in your user interface.</li>
+<li>Evaluation criteria should be determined in advance. Multiple
+criteria can be used to evaluate a single concept like ease of use.</li>
+<li>Without specialized software, capturing some data like clicks or
+idle time may be difficult. However, many other common metrics are
+relatively simple to evaluate if you can record a session and/or present
+survey questions. If you are evaluating a command line tool, you may ask
+participants to copy their terminal contents and email them to you at
+the end of the session.</li>
+<li>When asking participants survey questions, do not do so verbally.
+Make sure you have a way of associating their anonymous response with
+their recorded session; anonymous participant IDs are a good
+choice.</li>
+<li>Preparing a script and the test environment ensures you run the same
+test with each participant and helps make sure you gather all the data
+you meant to.</li>
+<li>Your test sessions should begin with some orientation and rapport
+building, then move on to the tasks before wrapping up.
+<ul>
+<li>During orientation, introduce yourself and outline what will happen
+during the study. Reassure participants that they are not being
+tested—only the tool is being evaluated.</li>
+<li>When building rapport, ask the participant a question about
+themselves that they can confidently answer.</li>
+<li>When presenting the tasks, try to order them so that your most
+prioritized tasks go first, ensuring you get to them. If there is a
+logical sequence to them, you might apply that structure instead.</li>
+<li>In your script, include links to any appropriate webpages or survey
+questions so you can easily share this information with participants;
+put them next to the appropriate task, not at the top of the page.</li>
+</ul>
+</li>
+<li>You will need to link any anonymous survey responses to their study
+session. A simple way is to assign each participant an ID number and
+tell them this ID number before sending them the survey; they can then
+enter that into the survey.</li>
+<li>Piloting your study helps ensure you have accurate estimates of how
+long a session will take, helps refine your script and environment
+set-up, and can inspire additional questions or tasks to include.
+However, if you anticipate difficulty recruiting, you should limit your
+piloting so that you don’t practice with too many potential actual
+participants.</li>
+</ul>
 </div>
 </div>
 </div>
@@ -685,6 +905,7 @@ any links that you are not going to use.
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
+</div>
 </section></section><section id="aio-recruiting-tracking"><p>Content from <a href="recruiting-tracking.html"></a></p>
 <hr>
 <p>Last updated on 2025-07-02 |
