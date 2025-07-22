@@ -86,7 +86,7 @@ Facilitator: Great. That’s all I have for today. Do you have any questions for
 Facilitator: Alright, well thank you for participating. I hope you enjoy the rest of your day.
 :::::::::::::::
 
-!(uxr.png){alt='An infographic on User Experience Research and Rapid Usability testing'}
+![](ep1_infographic.png){alt='An infographic on User Experience Research and Rapid Usability testing'}
 
 There are many methods to study user experiences. You could do interviews, observation, participatory design, A/B testing, surveys, contextual inquiry, card sorting, or one of many more options. 
 
@@ -104,6 +104,7 @@ Because usability tests are used to assess some interface and offer insights, th
 For each of the scenarios below, consider if the person in each scenario should start rapid usability testing next. Indicate your decision using the Zoom poll and jot down some notes on why you chose your answer.
 
 **Scenarios:**
+
 - Rae is going to develop a gold standard dataset of journal article submissions, tagged with their venues, peer review outcomes, and reasons for acceptance or rejection. Rae will develop a tool that assesses draft articles for their probability of successful publication.
 - Chung previously made their software package PHANCY accessible via downloads on their personal website; users could install the downloaded files. Chung recently made PHANCY installable with the pip package management system. He’s gotten a bunch of emails from users having trouble with pip though.
 - Sam wrote a script that helps their two labmates automate some common tasks. Sam was thinking the script might be more useful if it also logged in a shared spreadsheet when it was executed and by whom.
