@@ -27,6 +27,7 @@ exercises: 0
 User experience research (UXR) is the investigation of how people interact with, make sense of, and respond to technology and services. Often, your goal with UXR will be to improve the usability of your product, making it easier to adopt and use. 
 
 Usability is made up of other attributes that determine how easy to use a technology or service is. [Nielsen Norman Group](https://www.nngroup.com/articles/usability-101-introduction-to-usability/), a respected authority on usability and user research, identifies several characteristics of usability (lightly adapted here):
+
 - *Learnability*: How easy is it for users to accomplish basic tasks the first time they encounter the design?
 - *Efficiency*: Once users have learned the design, how quickly can they perform tasks?
 - *Memorability*: When users return to the design after a period of not using it, how easily can they reestablish proficiency?
