@@ -1,6 +1,6 @@
 
 ---
-title: "FIXME"
+title: "Preparing a rapid usability test"
 teaching: 0
 exercises: 0
 ---
@@ -40,15 +40,15 @@ In the Zoom poll, choose two metrics from below that you could use in your study
 
 | Metric |
 | ------ |
-| *Successes*: Number of participants who successfully complete a task. |
-| *Errors*: Number of mistakes made while attempting a task, possibly broken down by error type. |
-| *Clicks*: Clicks: Number of clicks participants make when completing a task; a proxy for complexity or efficiency. |
-| *Completion time*: Time taken to complete a task. |
-| *Idle time*: Periods of inactivity during a task, indicating confusion or hesitation. |
-| *Drop-off rate*: Percentage of participants who stop a task before completing it. |
-| *Self-reported ease*: Participants’ rating of how easy or difficult a task was to complete. |
-| *Self-reported satisfaction*: Participants’ rating of how satisfied they are with the interface or experience. |
-| *Self-reported usefulness*: Participants’ rating of how useful the tool or service is. |
+| *Successes:* Number of participants who successfully complete a task. |
+| *Errors:* Number of mistakes made while attempting a task, possibly broken down by error type. |
+| *Clicks:*  Number of clicks participants make when completing a task; a proxy for complexity or efficiency. |
+| *Completion time:* Time taken to complete a task. |
+| *Idle time:* Periods of inactivity during a task, indicating confusion or hesitation. |
+| *Drop-off rate:* Percentage of participants who stop a task before completing it. |
+| *Self-reported ease:* Participants’ rating of how easy or difficult a task was to complete. |
+| *Self-reported satisfaction:* Participants’ rating of how satisfied they are with the interface or experience. |
+| *Self-reported usefulness:* Participants’ rating of how useful the tool or service is. |
 
 :::::::: solution
 Successes, errors, and self-reported ease are fairly natural choices here but the choice of metrics is up to you and depends on what you want to know about. Some metrics like clicks or idle time might be easier to collect with specialized software but a screen recording can get you pretty far. 
