@@ -1,4 +1,3 @@
-
 ---
 title: "Conducting a rapid usability test"
 teaching: 0
