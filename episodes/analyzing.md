@@ -1,4 +1,3 @@
-
 ---
 title: "Analyzing data and reporting results"
 teaching: 0
