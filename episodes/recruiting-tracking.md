@@ -1,5 +1,3 @@
-
-
 ---
 title: "Recruiting and tracking participants"
 teaching: 0
@@ -36,9 +34,9 @@ Based on your research question and value proposition, you can identify the gene
 
 | Research Question | Value Prop | Target Study Population | 
 | --- | --- | --- | 
-|When Slack users return to the design *after a period of not using it,* how quickly can they add a channel?|Via synced phone, browser, and desktop applications, Slack revolutionizes team communication by enabling seamless collaboration and enhanced productivity in a dynamic *work environment.*|Requirements:  
-- Slack users who have not opened the app in XX days  
-General type of person:  
+|When Slack users return to the design *after a period of not using it,* how quickly can they add a channel?|Via synced phone, browser, and desktop applications, Slack revolutionizes team communication by enabling seamless collaboration and enhanced productivity in a dynamic *work environment.*|Requirements:  <br>
+- Slack users who have not opened the app in XX days  <br>
+General type of person:  <br>
 - Use Slack for work with a team | 
 
 ## How many to recruit
