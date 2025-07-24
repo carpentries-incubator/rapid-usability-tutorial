@@ -456,7 +456,7 @@ think this study could address?</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
 <div class="accordion-body">
 <p>Below is the script for the skit, two people are needed. The
 <strong>participant</strong> should begin sharing their screen with
@@ -586,7 +586,7 @@ whom.</li>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <p>This is a bit subjective but it comes down to whether or not you have
 something for people to work with, people to talk to, and something you
@@ -923,7 +923,7 @@ any links that you are not going to use.
 </div>
 </section></section><section id="aio-recruiting-tracking"><p>Content from <a href="recruiting-tracking.html"></a></p>
 <hr>
-<p>Last updated on 2025-07-02 |
+<p>Last updated on 2025-07-24 |
 
         <a href="https://github.com/strudel-science/rapid-usability-tutorial/edit/main/episodes/recruiting-tracking.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -936,6 +936,17 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner">
 <h3 class="card-title">Questions</h3>
+<ul>
+<li>Who should I be recruiting?</li>
+<li>How many people should I recruit?</li>
+<li>How do I find users that I don’t have a connection with
+already?</li>
+<li>What is snowball sampling?</li>
+<li>What ethical considerations should I have when doing user experience
+research and how does that work with my scientific research?</li>
+<li>How can I keep track of (potential) participants and their
+data?</li>
+</ul>
 </div>
 </div>
 </div>
@@ -943,14 +954,293 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
+<ul>
+<li>Define a value proposition for the tool to be studied</li>
+<li>Define a target study population for user experience research</li>
+<li>Craft a recruitment email</li>
+<li>Identify ethical considerations that must be accounted for when
+conducting human subjects research</li>
+<li>Leverage snowball sampling and broader advertising to increase
+recruitment</li>
+<li>Recruit participants who have never used your tool</li>
+<li>Track participation in a protected spreadsheet</li>
+<li>Establish a participant list for future testing</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-<section><h2 class="section-heading" id="fixme-body-here">FIXME body here<a class="anchor" aria-label="anchor" href="#fixme-body-here"></a>
+<section><h2 class="section-heading" id="who-to-recruit">Who to recruit<a class="anchor" aria-label="anchor" href="#who-to-recruit"></a>
 </h2>
 <hr class="half-width">
+<p>When deciding who to recruit for your study, consider who your tool
+is meant to support, in what settings, and how. Sometimes this is called
+a <a href="https://online.hbs.edu/blog/post/creating-a-value-proposition" class="external-link">value
+proposition</a>—it’s a statement of benefits. By considering what
+benefits you offer and to whom, you can identify the general type of
+person you should be recruiting for your study because this is also your
+target user audience.</p>
+<p>Your research question can also be helpful when determining who to
+recruit as it may include some prerequisite requirements.</p>
+<div class="section level3">
+<h3 id="example-defining-a-target-population">Example: Defining a target population<a class="anchor" aria-label="anchor" href="#example-defining-a-target-population"></a>
+</h3>
+<p>Based on your research question and value proposition, you can
+identify the general type of person and specific requirements for your
+target population.</p>
+<table class="table">
+<colgroup>
+<col width="33%">
+<col width="33%">
+<col width="33%">
+</colgroup>
+<thead><tr class="header">
+<th>Research Question</th>
+<th>Value Prop</th>
+<th>Target Study Population</th>
+</tr></thead>
+<tbody><tr class="odd">
+<td>When Slack users return to the design <em>after a period of not
+using it,</em> how quickly can they add a channel?</td>
+<td>Via synced phone, browser, and desktop applications, Slack
+revolutionizes team communication by enabling seamless collaboration and
+enhanced productivity in a dynamic <em>work environment.</em>
+</td>
+<td>Requirements:</td>
+</tr></tbody>
+</table>
+<ul>
+<li>Slack users who have not opened the app in XX days</li>
+</ul>
+<p>General type of person:</p>
+<ul>
+<li>Use Slack for work with a team |</li>
+</ul>
+</div>
+</section><section><h2 class="section-heading" id="how-many-to-recruit">How many to recruit<a class="anchor" aria-label="anchor" href="#how-many-to-recruit"></a>
+</h2>
+<hr class="half-width">
+<p>Once you know what type of person you want to talk to, you’ll next
+need to decide how many users you’d like to have in your study. There
+are no wrong answers here; what is important is that you feel
+comfortable with the data you’ve gathered and can use that data to make
+informed design decisions. If you are seeking statistical significance,
+you will need to recruit many more participants than you would
+otherwise. However, because rapid usability testing is easily applied in
+an iterative development process and because <a href="https://www.nngroup.com/articles/how-many-test-users/" class="external-link">you don’t
+need very many participants to gain insights</a>, we recommend testing
+with up to 10 people.</p>
+<p>While usability studies outside of scientific software usually offer
+an incentive for participation, such as a gift card, this is often not
+needed for scientific software. Scientists and researchers often
+genuinely want to see improvements in the tools they rely on for their
+work and to help their fellow researchers; a sense of community and
+shared interest is generally a sufficient motivator. Additionally, they
+often appreciate helping to shape the software’s future direction. Thus,
+while an incentive like a gift card is nice, it is not necessary.</p>
+<p>When recruiting, most strangers you reach out to will say no. If you
+are recruiting from people you are regularly in contact with, you can
+expect higher and more positive response rates.</p>
+</section><section><h2 class="section-heading" id="how-to-recruit">How to recruit<a class="anchor" aria-label="anchor" href="#how-to-recruit"></a>
+</h2>
+<hr class="half-width">
+<p>Unless your study is time bound in some way, recruitment can happen
+in phases.</p>
+<p>We recommend direct, individualized emails to recruit participants
+for your study if possible. This approach means that you have a record
+of when and who you reached out to and personalized requests can be more
+effective than broad canvassing with flyers or posts to forums. If you
+have or can find contact information for your users or eligible
+participants, leverage it to send these emails.</p>
+<p>A common risk participants in user studies face is a breach of
+confidentiality, meaning their opinions or data get shared with
+unexpected people in a way that compromises their anonymity. With rapid
+usability testing, most of the study will involve participants engaging
+with your tool in routine ways, so no unusual risk should be added.
+However, you might be asking some interview questions or participants
+might volunteer information they wish to keep private. Be sure to state
+how you will handle participants’ data: Will you anonymize it? Who will
+have access to the data? Will you keep any identifiable information?
+Will you ever publish the data? Providing this information is important
+for ensuring participants can make informed decisions about
+participation.</p>
+<div id="exercise-4-evaluating-an-example-recruitment-email" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="exercise-4-evaluating-an-example-recruitment-email" class="callout-inner">
+<h3 class="callout-title">Exercise 4: Evaluating an Example Recruitment Email</h3>
+<div class="callout-content">
+<p>Recruitment emails should:</p>
+<ul>
+<li>Address an individual</li>
+<li>Introduce the sender and research team</li>
+<li>Summarize the goal of your study</li>
+<li>Explain what you want from the participant and why them</li>
+<li>State the time commitment (based on a pilot study or a best
+guess)</li>
+<li>Explain any eligibility requirements; Ask or link to necessary
+screener questions</li>
+<li>State any risks participants might be subject to and how you will
+mitigate them</li>
+<li>Explain how you will handle their data</li>
+<li>Make clear that participation is voluntary</li>
+<li>State any incentive you have to offer</li>
+<li>Clearly ask for their participation</li>
+</ul>
+<p>Review the example recruitment email below and check off the
+recommended content you see using the Zoom poll.</p>
+<p>Hi _______,</p>
+<p>I am a researcher working with PHANCY and am conducting user studies
+to improve our installation process. I understand you are a PHANCY user
+and hoped we could learn from your experience. Might you have thirty
+minutes some time in the next couple of weeks to participate in one of
+these user studies?</p>
+<p>During the study session, I would observe you doing some typical
+tasks using PHANCY, focusing on how you install updates to the package.
+I’d record and transcribe the session but only I would have access to
+those raw files—the broader PHANCY team would only be shown anonymized
+content so that you can be completely open during the interview. Once
+I’ve finished anonymization I will delete the raw files completely and
+retain only anonymous data in our private cloud storage. We’ll only use
+your data to guide our internal decision making; this isn’t for
+publication. Participation is completely voluntary.</p>
+<p>If you’re able to participate, please share a day and time that would
+work well for you.</p>
+<p>Thanks for your consideration! best wishes,</p>
+</div>
+</div>
+</div>
+<div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
+  <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
+</button>
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div class="accordion-body">
+<p>The email could be improved in a number of ways (e.g., be less formal
+in tone) but only eligibility requirements and incentive info are
+missing. What you include will depend on who you are emailing and your
+study design.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="callout1" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Callout</h3>
+<div class="callout-content">
+<p>Sometimes recruitment emails can get lengthy and that can be
+overwhelming, reducing your response rates. You might want to move some
+details below your email signature or into an <a href="https://www.nngroup.com/articles/informed-consent/" class="external-link">informed
+consent document</a> to keep the request simple and clear. Depending on
+your institution and your goal for your research (i.e. to create
+generalizable knowledge or to inform only your own decision making), you
+may have an Institutional Review Board (IRB) that will have additional
+information and regulations you should heed when planning, executing,
+and recruiting for your study. If you have intentions to share, present,
+or publish data, reach out to your IRB for guidance.</p>
+<p>When scheduling participants, remember to give yourself some buffer
+time and end the test promptly at the time limit to respect the
+participant’s time. Don’t schedule test sessions back to back - give
+your team a break between sessions.</p>
+</div>
+</div>
+</div>
+</section><section><h2 class="section-heading" id="expanding-your-recruitment-efforts">Expanding your recruitment efforts<a class="anchor" aria-label="anchor" href="#expanding-your-recruitment-efforts"></a>
+</h2>
+<hr class="half-width">
+<p>Recruitment is often the most difficult part of any study with human
+participants. You might find that emails are not effective enough and
+you need to find more people. You may also be trying to recruit people
+who have never used your tool and that can be a surprisingly difficult
+type of person to reach.</p>
+<p>Snowball sampling is one approach to increasing your advertising
+efforts. Snowball sampling is when a potential participant refers the
+researcher to additional potential participants. This is great for
+recruitment but can introduce bias and must be done with care to protect
+participants’ privacy.</p>
+<div id="exercise-5-snow-ball-sampling" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="exercise-5-snow-ball-sampling" class="callout-inner">
+<h3 class="callout-title">Exercise 5: Snow ball sampling</h3>
+<div class="callout-content">
+<p>In the Zoom poll, identify which recruitment tactics are examples of
+snowball sampling:</p>
+<ul>
+<li>Asking someone who did not agree to participate if they know anyone
+else who might be willing</li>
+<li>Inviting people who have submitted bug reports</li>
+<li>Posting to a community forum</li>
+<li>A participant introduces you to another possible participant</li>
+<li>Adding a link to sign up for your study to your software’s
+README</li>
+<li>Identifying potential participants by seeing who has cited your
+software</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
+  <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
+</button>
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div class="accordion-body">
+<p>“Asking someone who did not agree to participate if they know anyone
+else who might be willing” and “A participant introduces you to another
+possible participant” are snowball sampling. All others are good
+recruitment mechanisms but not snowball sampling, which requires a
+referral.</p>
+</div>
+</div>
+</div>
+</div>
+</section><section><h2 class="section-heading" id="tracking-participation">Tracking participation<a class="anchor" aria-label="anchor" href="#tracking-participation"></a>
+</h2>
+<hr class="half-width">
+<p>You’ll need a central place where you can keep track of who you have
+recruited and when/if they will be participating. Create a spreadsheet
+for this. It can be especially useful to also include when people were
+contacted and followed up with as well as links to session transcripts
+or recordings and notes. See the image below or follow <a href="https://docs.google.com/spreadsheets/d/1sNjgCn-u8R545Au8ypEXyH_2Kf5mWtgzP_qRw6aPAwY/edit?gid=0#gid=0" class="external-link">this
+link</a> to a template participant tracker that you can make a copy of
+and use yourself.</p>
+<figure><img src="../ep3_recruit.png" alt="A screenshot of a Google Sheet with columns for Participant ID, Name, Email, Session date and more." class="figure mx-auto d-block"></figure><p>In your participant tracker, assign participants anonymous IDs like
+Participant 1 or P1 so that you can identify them and their data without
+using their name. The private tracker should be the only location where
+you link anonymous IDs to identifiable information. If you don’t have to
+record identifiable information, don’t. You likely don’t need things
+like age, gender, or race and it is possible you don’t even need
+participant names or contact information.</p>
+<p>Including links in that tracker to notes and recordings means you are
+associating private information with identifying information like the
+participant’s name or email. That makes it very important that this be a
+confidential, private document accessible only to the people that
+participants agreed to. Make sure to save it in an appropriate location,
+preferably somewhere password protected. We recommend keeping a private
+folder for this tracker and any raw (non-anonymized) data. If you were
+using cloud storage like Google Drive for your study, you might use a
+folder structure like this:</p>
+<figure><img src="../ep3_folders.png" alt="Two screnshots of different Google Drive folders with annotations indicating which content should be shared and which should be confidential. Raw data and the participant tracker are marked confidential." class="figure mx-auto d-block"></figure><p>To make the most of your recruitment efforts and facilitate future
+studies, you can keep a separate list of people who consent to be
+contacted about additional user research opportunities. Ask at the end
+of a study session or via email if it’s okay to reach out again in
+future. When you do contact those people again, explain that they
+previously consented to this and ensure they know they can ask to be
+removed from your list. Keep this list, your participant pool, in a
+separate location from study data and do not record anything in the list
+about which research people have engaged in or how they came to be
+included in the list. It should be private so that only people directly
+involved in study recruitment have access. You can enable people to join
+this list by creating and sharing a sign up form.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -958,7 +1248,31 @@ any links that you are not going to use.
 <div class="callout-inner">
 <h3 class="callout-title">Key Points</h3>
 <div class="callout-content">
-
+<ul>
+<li>Identify your targeted population for your user study by considering
+the constraints that your research question implies and your tool’s
+value proposition. Some constraints might be true prerequisites for
+participation while others might be nice-to-haves that can be forgone if
+recruitment is difficult.</li>
+<li>Recruitment targets can be reached through iteration; about 10
+people should be sufficient to gain insights.</li>
+<li>Recruitment should be done conscientiously so that participants
+understand what they are being asked, what their data is being used for,
+and how it is being stored. Conducting human subjects research ethically
+also involves ensuring there are appropriate benefits for participation,
+that participants are treated with respect, and that you never coerce
+them.</li>
+<li>Snowball sampling is when a potential participant refers the
+researcher to additional potential participants. This is great for
+recruitment but can introduce bias and must be done with care to protect
+participants’ privacy. Posting to community forums, leveraging your code
+repository, and identifying then contacting users based on software
+citations are other tactics you can use to find participants.</li>
+<li>Recruitment should be tracked in a private location.</li>
+<li>Recruitment efforts for one study can support future studies—ask
+participants if they are willing to be contacted about future user
+research opportunities.</li>
+</ul>
 </div>
 </div>
 </div>
@@ -968,7 +1282,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-conducting"><p>Content from <a href="conducting.html"></a></p>
 <hr>
-<p>Last updated on 2025-07-02 |
+<p>Last updated on 2025-07-24 |
 
         <a href="https://github.com/strudel-science/rapid-usability-tutorial/edit/main/episodes/conducting.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -981,6 +1295,12 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner">
 <h3 class="card-title">Questions</h3>
+<ul>
+<li>What final set up is needed?</li>
+<li>How do I find out what a participant is thinking while doing their
+assigned task?</li>
+<li>How can I maximize insights from my small study population?</li>
+</ul>
 </div>
 </div>
 </div>
@@ -988,14 +1308,150 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
+<ul>
+<li>Prompt participants to think-aloud</li>
+<li>Assist participants with error recovery</li>
+<li>Avoid giving users hints while they are completing a task</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-<section><h2 class="section-heading" id="fixme-body-here">FIXME body here<a class="anchor" aria-label="anchor" href="#fixme-body-here"></a>
+<section><h2 class="section-heading" id="ensuring-smooth-data-collection">Ensuring smooth data collection<a class="anchor" aria-label="anchor" href="#ensuring-smooth-data-collection"></a>
 </h2>
 <hr class="half-width">
+<p>Having determined your tasks and written a script for your study
+sessions, prepared your <a href="https://docs.google.com/spreadsheets/d/1sNjgCn-u8R545Au8ypEXyH_2Kf5mWtgzP_qRw6aPAwY/edit?gid=1024872528#gid=1024872528" class="external-link">participant
+tracker</a>, and recruited participants, most of your work is already
+done!</p>
+<p>Before each study session, send a reminder to your participants and,
+if appropriate, include the link to the video conferencing tool you will
+be using (e.g. the link to the Zoom room). In your participant tracker,
+mark down that you sent the reminder.</p>
+<p>Before the session begins, make a unique copy of your script and
+include the anonymous ID you’ve assigned to the session participant in
+the title. Have this copy open so you can read along and take notes. We
+recommend making your notes another color like blue so you can easily
+distinguish what you should say aloud from your notes. Link to this copy
+in your tracker.</p>
+<p>During the session, participants will need to share their screen.
+Encourage them to only share the needed application (e.g. a browser
+window if the product being evaluated is online) and when sending survey
+questions, tell the participant they can open the survey in a different
+browser window so that they have privacy when responding. Make sure
+these suggestions are included in your study script so you don’t forget
+to say them.</p>
+<p>With small studies, getting more qualitative data (i.e. non-numerical
+data) can help ensure you gather rich insights and don’t rely too
+heavily on interpreting trends from small sample sizes. To gather this
+data, when orienting your participants, tell them you would like them to
+think-aloud while they work on tasks. This is somewhat unnatural and
+might slow participants down—if you are using time as a metric, you
+might reconsider this approach. However, if you want to get more
+information on participants’ impressions, it can be quite helpful. You
+might use prompts like, “What are you thinking?” or “Tell me what’s
+going through your head,” if they need reminding to think aloud.</p>
+<p>Sometimes participants might quit a task without finishing it or may
+get quite lost while attempting to carry out the task. Assure them that
+this is okay and you are learning a lot from them. It is very important
+to not give any hints—you won’t be there to do that for real users. Have
+links and any needed information on hand to send to participants so that
+when they begin a new task, they can do so regardless of how
+successfully they carried out the previous task.</p>
+<p>It is tempting to want to fill gaps in conversation. However, <a href="https://www.nngroup.com/articles/intentional-silence-ux/" class="external-link">intentional
+silence can be a powerful technique for moderation</a> and learning more
+from participants. Try to hold silences past your comfort point so that
+your participant fills the space and not you. Wait with a relaxed
+manner. If your participant asks a question, try offering a
+noncommittal, “Hmmm,” or, if this is during a follow up interview, you
+can encourage them to go on by saying, “Tell me more about that.”</p>
+<div id="callout1" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Callout</h3>
+<div class="callout-content">
+<p>If you are a part of a team with the capacity for more than one
+person to help with rapid usability testing, it can be helpful to plan
+for different roles and responsibilities during a session. For example,
+you might have a moderator verbally facilitate the session, a notetaker
+make and record real-time observations, and a tech role to manage
+recording, pasting in the meeting chat, and any other troubleshooting.
+Allowing for multiple roles–especially if a recording is not
+possible–can help each individual stay more focused and present in their
+role.</p>
+</div>
+</div>
+</div>
+<div id="discussion1" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Challenge</h3>
+<div class="callout-content">
+<p>In breakout rooms, you and a partner will act as study facilitator
+and participant in a rapid usability test. To save time, in this
+scenario, we will skip some other portions of orienting participants and
+the usual warm up questions.</p>
+<p>Choose your roles, have the participant share a browser window in
+Zoom, then have the facilitator read the script aloud and the
+participant engage in the assigned task. The facilitator can take notes
+in the place of their choice. Swap roles if you have time. We’ll discuss
+the exercise as a group when you’re done.</p>
+<p><strong>SCRIPT</strong> <strong>Facilitator:</strong> “While you
+work, please think-aloud as much as you can. That just means narrating
+out loud what you are doing, what you’re looking for, what you’re
+thinking. That will help me understand your thought process. If you fall
+silent for a little while, I’ll remind you to think-aloud. Otherwise I’m
+going to stay as quiet as possible until we reach the interview portion.
+Any questions?”</p>
+<p><strong>Facilitator:</strong> “Ok. This is a link to the US-RSE
+website.” <em>Send link via chat: <a href="https://us-rse.org/" class="external-link uri">https://us-rse.org/</a></em></p>
+<p><strong>Facilitator:</strong> “Your first task is to go there and
+find information on how you could receive a financial award from US-RSE
+to support your work. Let me know when you’ve found the information.”
+<em>Remind participants to think-aloud if they fall silent too long
+while working. Take notes.</em></p>
+</div>
+</div>
+</div>
+<p>After the session is over, store the recording into a private folder
+for raw data. Zoom will produce a transcript but services like Dovetail
+and Otter.ai also provide helpful audio transcription and sync the
+recording to the transcript itself. Review the transcript and anonymize
+it, removing names and identifiable information. Keep in mind that
+specific details about research projects can be very identifying. The <a href="https://qdr.syr.edu/guidance/human-participants/deidentification" class="external-link">Qualitative
+Data Repository</a> has useful information on how to anonymize
+transcripts, as does <a href="https://ukdataservice.ac.uk/learning-hub/research-data-management/anonymisation/anonymising-qualitative-data/" class="external-link">this
+article from the UK Data Service</a>. Save this anonymized version in a
+separate folder from the raw data. Link in your tracking spreadsheet to
+the anonymized version.</p>
+<p>It is also recommended to go through the recording on your own to
+note when there are long pauses or where a user’s mouse was hovering
+when they were looking for a particular feature. This non-verbal
+information can be helpful in understanding your user’s mindset and
+assumptions.</p>
+<div id="callout2" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Callout</h3>
+<div class="callout-content">
+<p>Your institution may have an IRB that has additional guidance or
+policies on anonymization or data retention. If you are collecting data
+in the EU or European Economic Area or are otherwise subject to the
+General Data Protection Regulation (GDPR), note that after
+anonymization, you should remove any records that would allow you to
+re-identify data (e.g., identifying info in your participant tracker).
+<a href="https://irb.ucsf.edu/gdpr" class="external-link">UCSF has helpful information</a> on
+understanding GDPR policies.</p>
+</div>
+</div>
+</div>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -1003,7 +1459,18 @@ any links that you are not going to use.
 <div class="callout-inner">
 <h3 class="callout-title">Key Points</h3>
 <div class="callout-content">
-
+<ul>
+<li>To protect their privacy, participants sharing their screen should
+be able to share only what is needed for the study.</li>
+<li>Having participants think-aloud is a good way to learn more about
+their reactions and opinions. It can slow them down, however, so
+reconsider this approach if you are using time as an evaluation
+metric.</li>
+<li>Ensure errors from one task don’t propagate to the next by sending
+participants new links at the start of each task.</li>
+<li>As you collect data, anonymize it and link to that data in your
+tracking spreadsheet.</li>
+</ul>
 </div>
 </div>
 </div>
@@ -1013,7 +1480,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-analyzing"><p>Content from <a href="analyzing.html"></a></p>
 <hr>
-<p>Last updated on 2025-07-02 |
+<p>Last updated on 2025-07-24 |
 
         <a href="https://github.com/strudel-science/rapid-usability-tutorial/edit/main/episodes/analyzing.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -1026,6 +1493,15 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner">
 <h3 class="card-title">Questions</h3>
+<ul>
+<li>How do I get insight into the kinds of errors my users make or
+encounter?</li>
+<li>How do I calculate metrics like error rates?</li>
+<li>What is reverse scoring?</li>
+<li>How do I interpret think-aloud data?</li>
+<li>What should I tell people about my study?</li>
+<li>What is an actionable insight?</li>
+</ul>
 </div>
 </div>
 </div>
@@ -1033,14 +1509,358 @@ any links that you are not going to use.
 <div class="card-body">
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
+<ul>
+<li>Label qualitative data</li>
+<li>Calculate usability metrics</li>
+<li>Present results so that they highlight actionable insights</li>
+<li>Respond to UX skeptics</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-<section><h2 class="section-heading" id="fixme-body-here">FIXME body here<a class="anchor" aria-label="anchor" href="#fixme-body-here"></a>
+<section><h2 class="section-heading" id="start-by-labeling-the-qualitative-data">Start by labeling the qualitative data<a class="anchor" aria-label="anchor" href="#start-by-labeling-the-qualitative-data"></a>
 </h2>
 <hr class="half-width">
+<p>To learn from your participants’ behavior and think-alouds, you will
+need to review and label your raw qualitative data. This is sometimes
+referred to as coding your data and is <a href="https://www.tandfonline.com/doi/abs/10.1191/1478088706qp063oa" class="external-link">a
+key step in many qualitative analysis methods</a>. You can use open
+coding to apply labels inductively, coming up with new ones as you
+proceed. Or, you can work with a coding scheme, a set of predetermined
+labels that are relevant to your research question. This is an iterative
+process—label your data as soon after you’ve collected it as possible
+and return to and revise those labels after you have collected more
+data.</p>
+<p>The labels you assign are going to represent your data later, so if
+you want to be able to talk about what activity people were engaged in
+while encountering system errors or what people’s emotions seemed to be
+while completing a task, make sure you code for those things.</p>
+<p>Tools like Dovetail, Atlas.ti, or Taguette may be used to support
+this process, but you can do it without specialized software. The main
+thing you need is a way to associate labels for things you care about
+with pieces of data like quotes or mouse and click locations. You want
+to be able to explore labels assigned to data and, conversely, data
+assigned to labels. Excel spreadsheets can accomplish this.</p>
+<div class="section level3">
+<h3 id="example-a-coded-think-aloud">Example: A coded think-aloud<a class="anchor" aria-label="anchor" href="#example-a-coded-think-aloud"></a>
+</h3>
+<p>In this example, the coding scheme includes: task, emotional state,
+and memory issues.</p>
+<table class="table">
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<thead><tr class="header">
+<th>PID</th>
+<th>Quote</th>
+<th>Task</th>
+<th>Emotional State</th>
+<th>Memory Issue</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>P1</td>
+<td>Alright, I’m just entering the command. ‘pip install PHANCY’ and I
+hit enter.</td>
+<td>pip install</td>
+<td>neutral</td>
+<td>NA</td>
+</tr>
+<tr class="even">
+<td>P1</td>
+<td>I’m pretty sure there’s a way you can specify the specific version
+but I can’t recall.</td>
+<td>pip install</td>
+<td>neutral</td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td>P1</td>
+<td>I’m watching it make progress now. Yeah, look at all that.</td>
+<td>pip install</td>
+<td>positive</td>
+<td>NA</td>
+</tr>
+<tr class="even">
+<td>P1</td>
+<td>And it’s done! It’s telling me it was successful so that’s it.</td>
+<td>pip install</td>
+<td>positive</td>
+<td>NA</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section><section><h2 class="section-heading" id="categorizing-errors">Categorizing errors<a class="anchor" aria-label="anchor" href="#categorizing-errors"></a>
+</h2>
+<hr class="half-width">
+<p>If you are interested in errors, you may use error categories as part
+of your coding scheme. Common error types include: - Failed attempts:
+Entering invalid data, such as incorrect login credentials or formatting
+errors. - Misnavigation: Navigating to unintended pages or sections. -
+Repeated actions: Attempting the same action multiple times
+unsuccessfully. - Incomplete tasks: Abandoning a task or failing to
+achieve the intended goal. - System errors: Triggering error messages or
+encountering broken functionality.</p>
+<p>You could also assign a severity to errors. A severity scale you
+could use is: - Critical: Prevents users from completing a task (e.g.,
+broken functionality or unclear instructions). - Moderate: Slows users
+down or causes frustration but doesn’t prevent task completion. - Minor:
+Small mistakes with minimal impact on task completion.</p>
+<div class="section level3">
+<h3 id="example-a-coded-error">Example: A coded error<a class="anchor" aria-label="anchor" href="#example-a-coded-error"></a>
+</h3>
+<p>What counts as errors are up to you; we recommend adopting a user’s
+perspective though. If they think there’s a problem, document that
+somehow.</p>
+<p>Here, a participant thinks there is an error because they haven’t
+seen any changes. The facilitator running the session might know that
+the tool is working but because the user thinks there was a problem, the
+error was labeled with two codes—Error: moderate and Error: no status
+update. These describe the type and severity.</p>
+<table class="table">
+<colgroup>
+<col width="25%">
+<col width="25%">
+<col width="25%">
+<col width="25%">
+</colgroup>
+<thead><tr class="header">
+<th>PID</th>
+<th>Quote</th>
+<th>Task</th>
+<th>Error</th>
+</tr></thead>
+<tbody><tr class="odd">
+<td>P2</td>
+<td>I hit enter but nothing is happening. I think it’s broken.</td>
+<td>pip install</td>
+<td>Moderate; no status update</td>
+</tr></tbody>
+</table>
+<div id="exercise-7-applying-labels" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="exercise-7-applying-labels" class="callout-inner">
+<h3 class="callout-title">Exercise 7: Applying labels</h3>
+<div class="callout-content">
+<p>The quote below is a fictional participant thinking aloud while
+trying to reserve some nodes for their analysis work; they’re describing
+filling out a form.</p>
+<p>“I’m just filling in my information in the form. I need two GPUs so
+I’ll enter that here. Okay, I’m….I’m just reviewing to make sure things
+are correct. Alright, we’re good. I can hit submit. Oh. Wait. I guess I
+forgot something. Oh just checking that box. Okay now we’re good.”</p>
+<p>Read the quote a couple of times and then, in the Zoom poll, list
+some labels you might apply to the quote if you were studying how easy
+it is for users to make those reservations. Labels can be a single word
+or short phrases. Separate labels with commas (,) or slashes ().</p>
+</div>
+</div>
+</div>
+<div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
+  <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
+</button>
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div class="accordion-body">
+<p>There aren’t really wrong answers here as you’ll apply the labels
+that you think represent the data well. You might describe each step
+they take. You might label the error types or their severity. You can
+use colons or dashes to create labels with subtypes as well, e.g. “task:
+reserve nodes.”</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><section><h2 class="section-heading" id="memoing">Memoing<a class="anchor" aria-label="anchor" href="#memoing"></a>
+</h2>
+<hr class="half-width">
+<p>When reporting results, you will need to give your audience
+explanations—why did participants make these errors? What were they
+doing when they abandoned a task? Why were people feeling a given
+emotion? You can rely on your labeled data to answer these kinds of
+questions. Look at all the quotes associated with labels you deem most
+important and try to find patterns in them. Write short memos that
+summarize what you are seeing and which point to strong examples or
+exceptions.</p>
+</section><section><h2 class="section-heading" id="evaluating-metrics">Evaluating metrics<a class="anchor" aria-label="anchor" href="#evaluating-metrics"></a>
+</h2>
+<hr class="half-width">
+<p>The formulas for calculating many of the common usability metrics are
+shown below. Generally, you will want to evaluate each task individually
+because that is how you will gain the most actionable insights.</p>
+<table class="table">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+<thead><tr class="header">
+<th>Metric</th>
+<th>Formula</th>
+</tr></thead>
+<tbody><tr class="odd">
+<td>
+<em>Successes:</em> Number of participants who successfully complete
+a task. Also commonly reported as a rate.</td>
+<td><em>Total, calculated for each task:</em></td>
+</tr></tbody>
+</table>
+<p>number of success <em>Rate, calculated for each task:</em> (number of
+successful attempts / total task attempts) * 100 | | <em>Errors:</em>
+Number of mistakes made while attempting a task, possibly broken down by
+error type. Also commonly reported as a rate. When categorized,
+proportions may be reported. | <em>Total, calculated for each task:</em>
+number of mistakes identified <em>Rate, calculated for each task:</em>
+(number of mistakes identified / total task attempts) * 100
+<em>Proportion of one error type:</em> (number of mistakes of X type /
+number of errors of all types) * 100 | | <em>Clicks:</em> Number of
+clicks participants make when completing a task; a proxy for complexity
+or efficiency. | <em>Total, calculated for each task:</em> number of
+clicks | | <em>Completion time:</em> Time taken to complete a task. |
+<em>Calculated for each task in seconds:</em> time at task completion -
+time at task start - any time spent on extraneous things | | <em>Idle
+time:</em> Periods of inactivity during a task, indicating confusion or
+hesitation. | <em>Calculated for each task in seconds:</em> time at idle
+end - time at idle start | | <em>Drop-off rate:</em> Percentage of
+participants who stop a task before completing it. | <em>Rate,
+calculated for each task:</em> (number of people who do not complete a
+task / total task participants) * 100 | | <em>Self-reported ease:</em>
+Participants’ rating of how easy or difficult a task was to complete
+(e.g., using a Likert scale). | <em>Calculated for each survey item or
+combined items:</em> sum of ratings / total task participants | |
+<em>Self-reported satisfaction:</em> Participants’ rating of how
+satisfied they are with the interface or experience. | <em>Calculated
+for each survey item or combined items:</em> sum of ratings / total task
+participants | | <em>Self-reported usefulness:</em> Participants’ rating
+of how useful the tool or service is. | <em>Calculated for each survey
+item or combined items:</em> sum of ratings / total task participants
+|</p>
+<p>Because your sample sizes will likely be small, you should capture
+the range for any averages, meaning you will state the lowest and
+highest scores. And, when reporting rates, you should also include
+totals.</p>
+<div id="callout1" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Callout</h3>
+<div class="callout-content">
+<p>Typically, when using self-report measures, a higher rating would
+indicate a more positive response. For example, when using a scale of
+1-5, a score of 5 on a question asking how useful a tool is would
+indicate a highly useful tool. If you use any self-report measures that
+are negatively phrased, such that a higher score means something bad,
+you need to <em>reverse score</em> that item. To reverse score, subtract
+the rating from the highest score possible plus one. Reverse scoring
+should occur before calculating combined metrics.</p>
+<div class="section level3">
+<h3 id="example-reverse-scoring">Example: Reverse scoring<a class="anchor" aria-label="anchor" href="#example-reverse-scoring"></a>
+</h3>
+<p>A score of 2 on a scale of 1-5 can be reverse scored to 4: (5+1) - 2
+= 4 A score of 7 on a scale of 1-10 can be reverse scored to 4: (10+1) -
+7 = 4).</p>
+</div>
+</div>
+</div>
+</div>
+</section><section><h2 class="section-heading" id="reporting-results">Reporting results<a class="anchor" aria-label="anchor" href="#reporting-results"></a>
+</h2>
+<hr class="half-width">
+<p>When presenting results from your study, give your audience context
+so they can form their own judgements. Tell them what the goal of your
+research was, what you did, and who you did it with. Make it easy for
+your audience to understand exactly what the data you are showing them
+represents.</p>
+<p>How you plan on delivering results will affect the depth of context
+you need to share. Will you be delivering a write-up or report? Will you
+present your findings in real-time? Will you be sharing your slides with
+them afterward? You may need to include more details if your audience
+will be reviewing the results asynchronously, without you being there to
+explain and answer questions.</p>
+<div id="challenge2" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Challenge</h3>
+<div class="callout-content">
+<p>In the Zoom poll, respond to questions about how easy to interpret
+each of the following options are.</p>
+<p><em>Option 1</em> Error rate: 87.5% Minor errors: 71.4% Average ease:
+4 Average confidence: 3.8</p>
+<p><em>Option 2</em> 87.5% attempts to install included an error, most
+(71.4%) of which were minor.</p>
+<p>Average ease on a 1-5 scale: 4 Average confidence on a 1-5 scale:
+3.8</p>
+<p><em>Option 3</em> 87.5% attempts to install included an error, most
+(71.4%) of which were minor.</p>
+<p>Overall, the task was ______ to complete. (1 very easy - 5 very
+difficult) average ease: 4 range: 3-5</p>
+<p>How much do you agree with the following statement: I felt very
+confident using the system. (1 strongly disagree - 5 strongly agree)
+average confidence: 3.8 range: 3-5</p>
+</div>
+</div>
+</div>
+<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
+  <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
+</button>
+<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div class="accordion-body">
+<p>Option 3 should be clearest. Formatting might help.</p>
+</div>
+</div>
+</div>
+</div>
+<p>Your audience will want an explanation of the behavior behind the
+metrics. Help them understand what participants were thinking and doing.
+You can leverage the memos you have written about emergent patterns and
+important examples and you may wish to again review the labeled data
+that’s relevant to your research questions. This way you can report on
+things like what participants were doing when they encountered critical
+errors.</p>
+<p>In addition to quantitative results and qualitative explanations, you
+should report some actionable insights based on your findings. This is
+how your rapid usability test can inform development work. An actionable
+insight describes what the insight is (e.g. users’ expectation or a
+common problem) and an achievable step you should take next.</p>
+<p>There may be many possible next steps you can see but you can
+prioritize them by considering:</p>
+<ul>
+<li>If the issue negatively impacts your value proposition</li>
+<li>The severity of the issue based on how many people it affects and to
+what degree</li>
+<li>Whether or not your team is able to address the issue in the near
+future</li>
+</ul>
+<p>When reporting actionable insights, don’t hedge, say exactly what
+should be done next, e.g. redesign a feature, update documentation,
+conduct additional interviews. <a href="https://handbook.gitlab.com/handbook/product/ux/ux-research/research-insights/#actionable-insights" class="external-link">GitLab’s
+Handbook on UX research</a> has useful suggestions about how to craft
+actionable insights.</p>
+<p>You may encounter a team member who is skeptical about whether or not
+they should act on the results of your study. Generally, an effective
+response is to compare to the alternative: you know more now than you
+did before the study and you can move forward based on more than gut
+instinct. Acknowledge that your sample size may be small, but this is
+the norm in UX work and continued engagement with users can help you
+gauge how representative your results are. And, just like the software
+code itself, the user experience and your understanding of it is
+iteratively improved. That’s why we do rapid usability testing—it fits
+in with agile work cycles.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -1048,7 +1868,35 @@ any links that you are not going to use.
 <div class="callout-inner">
 <h3 class="callout-title">Key Points</h3>
 <div class="callout-content">
-
+<ul>
+<li>Apply a coding scheme to label qualitative data like transcripts.
+Iteratively review the data and labels you have applied so that you
+represent the data as best you can. You can combine labels together or
+make new ones that better represent your data.</li>
+<li>Specialized tools are helpful for labeling and exploring qualitative
+data but spreadsheets or printed transcripts and post it notes can do
+the job too. Whatever your system, you want to be able to explore labels
+assigned to data and, conversely, data assigned to labels.</li>
+<li>Errors can be labeled by severity or type, allowing you to more
+easily recognize which issues are the highest priority.</li>
+<li>Evaluate and report on tasks individually so that you have finer
+grained insight into users’ experiences. Multiple metrics can help
+inform your interpretation of how usable the tool is.</li>
+<li>When reporting results, tell your audience what the goal of your
+research was, what you did, and who you did it with.</li>
+<li>When presenting data, ensure the audience can understand exactly
+what metrics mean and provide information like ranges, medians, and
+modes to assist with interpretation.</li>
+<li>Leverage the labeled data to help you report trends in what
+participants were doing, thinking, and feeling throughout their
+tasks.</li>
+<li>An actionable insight describes what the insight is (e.g. uses’
+expectation or a common problem) and an achievable, concrete step you
+should take next. These should be included in your reporting.</li>
+<li>Rapid usability testing can be integrated into your development
+process so that you continuously improve your understanding of your
+tool’s UX.</li>
+</ul>
 </div>
 </div>
 </div>
