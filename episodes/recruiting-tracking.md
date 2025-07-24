@@ -42,7 +42,7 @@ Based on your research question and value proposition, you can identify the gene
 
 General type of person:
 
-- Use Slack for work with a team| 
+- Use Slack for work with a team | 
 
 ## How many to recruit
 Once you know what type of person you want to talk to, you’ll next need to decide how many users you’d like to have in your study. There are no wrong answers here; what is important is that you feel comfortable with the data you’ve gathered and can use that data to make informed design decisions. If you are seeking statistical significance, you will need to recruit many more participants than you would otherwise. However, because rapid usability testing is easily applied in an iterative development process and because [you don’t need very many participants to gain insights](https://www.nngroup.com/articles/how-many-test-users/), we recommend testing with up to 10 people.
@@ -118,6 +118,7 @@ In the Zoom poll, identify which recruitment tactics are examples of snowball sa
 ::::::::: solution
 "Asking someone who did not agree to participate if they know anyone else who might be willing" and "A participant introduces you to another possible participant" are snowball sampling. All others are good recruitment mechanisms but not snowball sampling, which requires a referral.
 ::::::::: 
+:::::::::::::::::::::::::::::::::::::
 
 ## Tracking participation
 You’ll need a central place where you can keep track of who you have recruited and when/if they will be participating. Create a spreadsheet for this.  It can be especially useful to also include when people were contacted and followed up with as well as links to session transcripts or recordings and notes. See the image below or follow [this link](https://docs.google.com/spreadsheets/d/1sNjgCn-u8R545Au8ypEXyH_2Kf5mWtgzP_qRw6aPAwY/edit?gid=0#gid=0) to a template participant tracker that you can make a copy of and use yourself. 
