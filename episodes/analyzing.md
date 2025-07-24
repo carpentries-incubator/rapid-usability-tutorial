@@ -11,6 +11,7 @@ exercises: 0
 - How do I interpret think-aloud data?
 - What should I tell people about my study?
 - What is an actionable insight?
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
@@ -18,6 +19,7 @@ exercises: 0
 - Calculate usability metrics
 - Present results so that they highlight actionable insights
 - Respond to UX skeptics
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Start by labeling the qualitative data
