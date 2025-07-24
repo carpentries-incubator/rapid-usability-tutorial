@@ -34,10 +34,7 @@ Based on your research question and value proposition, you can identify the gene
 
 | Research Question | Value Prop | Target Study Population | 
 | --- | --- | --- | 
-|When Slack users return to the design *after a period of not using it,* how quickly can they add a channel?|Via synced phone, browser, and desktop applications, Slack revolutionizes team communication by enabling seamless collaboration and enhanced productivity in a dynamic *work environment.*|Requirements:  <br>
-- Slack users who have not opened the app in XX days  <br>
-General type of person:  <br>
-- Use Slack for work with a team | 
+|When Slack users return to the design *after a period of not using it,* how quickly can they add a channel?|Via synced phone, browser, and desktop applications, Slack revolutionizes team communication by enabling seamless collaboration and enhanced productivity in a dynamic *work environment.*|Requirements:  <br> - Slack users who have not opened the app in XX days  <br> General type of person:  <br> - Use Slack for work with a team | 
 
 ## How many to recruit
 Once you know what type of person you want to talk to, you’ll next need to decide how many users you’d like to have in your study. There are no wrong answers here; what is important is that you feel comfortable with the data you’ve gathered and can use that data to make informed design decisions. If you are seeking statistical significance, you will need to recruit many more participants than you would otherwise. However, because rapid usability testing is easily applied in an iterative development process and because [you don’t need very many participants to gain insights](https://www.nngroup.com/articles/how-many-test-users/), we recommend testing with up to 10 people.
