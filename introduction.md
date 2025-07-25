@@ -49,41 +49,41 @@ Facilitator: Thanks for joining me today. I’m Hannah and I’ll be guiding you
 
 **Participant**: Okay
 
-Facilitator: I sent you the informed consent information over email. Did you have any questions about that?
+*Facilitator:* I sent you the informed consent information over email. Did you have any questions about that?
 
 **Participant**: I saw that. No questions.
 
-Facilitator:  Great. Do I have permission to record this session then? You might want to minimize any open applications.
+*Facilitator:*  Great. Do I have permission to record this session then? You might want to minimize any open applications.
 
 **Participant**: Sure. Nothing’s open right now.
 
-Facilitator: Okay. The recording has started. To set up for the task I’ll assign you, can you start sharing your screen so I can observe what you do on the website? 
+*Facilitator:* Okay. The recording has started. To set up for the task I’ll assign you, can you start sharing your screen so I can observe what you do on the website? 
 
 **Participant**: Yeah. Let me do that. Done.
 
-Facilitator: I’m going to send you a link to the US-RSE website. I’ll chat it to you in one second. Your task is to submit a poster to the US-RSE 2025 conference, so follow the link and begin your poster submission. I’ll stop you before you have to actually upload any files. While you’re working, please narrate your thoughts and actions so that I can hear what you’re thinking. Any questions?
+*Facilitator:* I’m going to send you a link to the US-RSE website. I’ll chat it to you in one second. Your task is to submit a poster to the US-RSE 2025 conference, so follow the link and begin your poster submission. I’ll stop you before you have to actually upload any files. While you’re working, please narrate your thoughts and actions so that I can hear what you’re thinking. Any questions?
 
 **Participant**: Nope
 
-Facilitator: Okay, here’s the link: https://us-rse.org/ And as you’re trying to submit your poster, don’t forget to think aloud.
+*Facilitator:* Okay, here’s the link: https://us-rse.org/ And as you’re trying to submit your poster, don’t forget to think aloud.
 
 **Participant**: Okay. So I guess this is the US-RSE website and I’m submitting to the conference…Get Involved seems like maybe where they’d put conference info. [click dropdown] But no…oh and okay, there’s a conference link here. [Click it and fall silent for 5ish seconds while moving around then hovering over “Submission window closed”]
 
-Facilitator: What are you thinking right now?
+*Facilitator:* What are you thinking right now?
 
 **Participant**: Oh I was just wondering if maybe I can’t submit? It says the window is closed. But I guess it says “except posters” [click on “Submit your work”]
 
 **Participant**: Okay, “Call for submissions…..” Oh and there’s just one link on this page here and that’s to submit your poster so I’ll click. Oh, I don’t have an account.
 
-Facilitator: I’ll stop you there. That’s as far as you need to go in the task for now. You can stop sharing your screen now. [BUT DON’T STOP SHARING] Here’s a link to a survey question I have for you about that task. The survey will ask you for a participant ID—yours is P4. Just let me know when you’re done with that. https://docs.google.com/forms/this_is_a_fake_link_4demos
+*Facilitator:* I’ll stop you there. That’s as far as you need to go in the task for now. You can stop sharing your screen now. [BUT DON’T STOP SHARING] Here’s a link to a survey question I have for you about that task. The survey will ask you for a participant ID—yours is P4. Just let me know when you’re done with that. https://docs.google.com/forms/this_is_a_fake_link_4demos
 
 **Participant**: Okay. [Fill out survey] All set.
 
-Facilitator: Great. That’s all I have for today. Do you have any questions for me?
+*Facilitator:* Great. That’s all I have for today. Do you have any questions for me?
 
 **Participant**: Nope.
 
-Facilitator: Alright, well thank you for participating. I hope you enjoy the rest of your day.
+*Facilitator:* Alright, well thank you for participating. I hope you enjoy the rest of your day.
 :::::::::::::::
 
 ![](ep1_infographic.png){alt='An infographic on User Experience Research and Rapid Usability testing'}
