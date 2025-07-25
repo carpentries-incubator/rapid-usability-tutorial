@@ -5,15 +5,19 @@ exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
+
 - What final set up is needed?
 - How do I find out what a participant is thinking while doing their assigned task?
 - How can I maximize insights from my small study population?
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
+
 - Prompt participants to think-aloud
 - Assist participants with error recovery
 - Avoid giving users hints while they are completing a task
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Ensuring smooth data collection
