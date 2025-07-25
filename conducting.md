@@ -65,7 +65,7 @@ After the session is over, store the recording into a private folder for raw dat
 
 It is also recommended to go through the recording on your own to note when there are long pauses or where a user's mouse was hovering when they were looking for a particular feature. This non-verbal information can be helpful in understanding your user's mindset and assumptions.
 
-::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::: spoiler
 ### Ethics and policies in your area
 Your institution may have an IRB that has additional guidance or policies on anonymization or data retention. If you are collecting data in the EU or European Economic Area or are otherwise subject to the General Data Protection Regulation (GDPR), note that after anonymization, you should remove any records that would allow you to re-identify data (e.g., identifying info in your participant tracker). [UCSF has helpful information](https://irb.ucsf.edu/gdpr) on understanding GDPR policies.
 ::::::::::::::::::::::::::::: 
