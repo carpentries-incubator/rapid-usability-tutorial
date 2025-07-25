@@ -33,7 +33,7 @@ Tools like Dovetail, Atlas.ti, or Taguette may be used to support this process, 
 In this example, the coding scheme includes: task, emotional state, and memory issues.
 
 | PID | Quote | Task | Emotional State | Memory Issue |
-| --- | --- | --- | --- | --- |
+| - | ----- | -- | -- | -- |
 | P1 | Alright, I'm just entering the command. 'pip install PHANCY' and I hit enter. | pip install | neutral | NA |
 | P1 | I'm pretty sure there's a way you can specify the specific version but I can't recall. | pip install | neutral | yes |
 | P1 | I'm watching it make progress now. Yeah, look at all that. | pip install | positive | NA |
@@ -58,7 +58,7 @@ What counts as errors are up to you; we recommend adopting a user’s perspectiv
 Here, a participant thinks there is an error because they haven’t seen any changes. The facilitator running the session might know that the tool is working but because the user thinks there was a problem, the error was labeled with two codes—Error: moderate and Error: no status update. These describe the type and severity.
 
 | PID | Quote | Task | Error |
-| --- | --- | --- | --- |
+| - | ----- | -- | -- |
 | P2 | I hit enter but nothing is happening. I think it’s broken. | pip install | Moderate; no status update |
 
 ::::::::::::::::::::::::::::: challenge
@@ -81,41 +81,30 @@ When reporting results, you will need to give your audience explanations—why d
 The formulas for calculating many of the common usability metrics are shown below. Generally, you will want to evaluate each task individually because that is how you will gain the most actionable insights.
 
 | Metric | Formula |
-| --- | --- |
-| *Successes:* Number of participants who successfully complete a task. Also commonly reported as a rate. | *Total, calculated for each task:*
-number of success
-*Rate, calculated for each task:* 
-(number of successful attempts / total task attempts) * 100 |
-| *Errors:* Number of mistakes made while attempting a task, possibly broken down by error type. Also commonly reported as a rate. When categorized, proportions may be reported. |  *Total, calculated for each task:* 
-number of mistakes identified
-*Rate, calculated for each task:* 
-(number of mistakes identified / total task attempts) * 100
-*Proportion of one error type:*
-(number of mistakes of X type / number of errors of all types) * 100 |
-| *Clicks:*  Number of clicks participants make when completing a task; a proxy for complexity or efficiency.  | *Total, calculated for each task:* 
-number of clicks |
-| *Completion time:* Time taken to complete a task. | *Calculated for each task in seconds:* 
-time at task completion - time at task start - any time spent on extraneous things |
-| *Idle time:* Periods of inactivity during a task, indicating confusion or hesitation. | *Calculated for each task in seconds:* 
-time at idle end - time at idle start |
-| *Drop-off rate:* Percentage of participants who stop a task before completing it. | *Rate, calculated for each task:* 
-(number of people who do not complete a task / total task participants) * 100 |
-| *Self-reported ease:* Participants’ rating of how easy or difficult a task was to complete (e.g., using a Likert scale). | *Calculated for each survey item or combined items:* 
-sum of ratings / total task participants |
-| *Self-reported satisfaction:* Participants’ rating of how satisfied they are with the interface or experience. | *Calculated for each survey item or combined items:* 
-sum of ratings / total task participants |
-| *Self-reported usefulness:* Participants’ rating of how useful the tool or service is. | *Calculated for each survey item or combined items:* 
-sum of ratings / total task participants |
+| ---- | --- |
+| *Successes:* Number of participants who successfully complete a task. Also commonly reported as a rate. | *Total, calculated for each task:* <br> number of successes <br> *Rate, calculated for each task:* <br> (number of successful attempts / total task attempts) * 100 |
+| *Errors:* Number of mistakes made while attempting a task, possibly broken down by error type. Also commonly reported as a rate. When categorized, proportions may be reported. |  *Total, calculated for each task:* <br> number of mistakes identified <br> *Rate, calculated for each task:* <br> (number of mistakes identified / total task attempts) * 100 <br> *Proportion of one error type:* <br> (number of mistakes of X type / number of errors of all types) * 100 |
+| *Clicks:*  Number of clicks participants make when completing a task; a proxy for complexity or efficiency.  | *Total, calculated for each task:*  <br> number of clicks |
+| *Completion time:* Time taken to complete a task. | *Calculated for each task in seconds:*  <br> time at task completion - time at task start - any time spent on extraneous things |
+| *Idle time:* Periods of inactivity during a task, indicating confusion or hesitation. | *Calculated for each task in seconds:*  <br> time at idle end - time at idle start |
+| *Drop-off rate:* Percentage of participants who stop a task before completing it. | *Rate, calculated for each task:* <br> (number of people who do not complete a task / total task participants) * 100 |
+| *Self-reported ease:* Participants’ rating of how easy or difficult a task was to complete (e.g., using a Likert scale). | *Calculated for each survey item or combined items:* <br>  sum of ratings / total task participants |
+| *Self-reported satisfaction:* Participants’ rating of how satisfied they are with the interface or experience. | *Calculated for each survey item or combined items:* <br> sum of ratings / total task participants |
+| *Self-reported usefulness:* Participants’ rating of how useful the tool or service is. | *Calculated for each survey item or combined items:* <br> sum of ratings / total task participants |
 
 Because your sample sizes will likely be small, you should capture the range for any averages, meaning you will state the lowest and highest scores. And, when reporting rates, you should also include totals.
 
 ::::::::::::::::::::::::::::::::::::: callout
+### **Reverse scoring**
 Typically, when using self-report measures, a higher rating would indicate a more positive response. For example, when using a scale of 1-5, a score of 5 on a question asking how useful a tool is would indicate a highly useful tool. If you use any self-report measures that are negatively phrased, such that a higher score means something bad, you need to *reverse score* that item. To reverse score, subtract the rating from the highest score possible plus one. Reverse scoring should occur before calculating combined metrics.
 
 ### Example: Reverse scoring
 A score of 2 on a scale of 1-5 can be reverse scored to 4:
+
 (5+1) - 2 = 4 
+
 A score of 7 on a scale of 1-10 can be reverse scored to 4: 
+
 (10+1) - 7 = 4).
 ::::::::::::::::::::::::::::::::::::: 
 
@@ -127,31 +116,42 @@ How you plan on delivering results will affect the depth of context you need to 
 ::::::::::::::::::::::::::::::::::::: challenge
 In the Zoom poll, respond to questions about how easy to interpret each of the following options are.
 
-*Option 1*
+**Option 1**
+
 Error rate: 87.5%
+
 Minor errors: 71.4%
+
 Average ease: 4
+
 Average confidence: 3.8
 
-*Option 2*
+**Option 2**
+
 87.5% attempts to install included an error, most (71.4%) of which were minor.
 
 Average ease on a 1-5 scale: 4
+
 Average confidence on a 1-5 scale: 3.8
 
-*Option 3*
+**Option 3**
+
 87.5% attempts to install included an error, most (71.4%) of which were minor.
 
 Overall, the task was ______ to complete. (1 very easy - 5 very difficult)
+
 average ease: 4
+
 range: 3-5 
 
 How much do you agree with the following statement: I felt very confident using the system. (1 strongly disagree - 5 strongly agree)
+
 average confidence: 3.8 
+
 range: 3-5 
 
 ::::::::: solution
-Option 3 should be clearest. Formatting might help.
+Option 3 should be clearest. Different formatting might help.
 :::::::::
 ::::::::::::::::::::::::::::::::::::: 
 
