@@ -1494,7 +1494,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-analyzing"><p>Content from <a href="analyzing.html">Analyzing data and reporting results</a></p>
 <hr>
-<p>Last updated on 2025-07-24 |
+<p>Last updated on 2025-07-25 |
 
         <a href="https://github.com/strudel-science/rapid-usability-tutorial/edit/main/episodes/analyzing.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 0 minutes</p>
@@ -1563,13 +1563,13 @@ assigned to labels. Excel spreadsheets can accomplish this.</p>
 </h3>
 <p>In this example, the coding scheme includes: task, emotional state,
 and memory issues.</p>
-<table class="table">
+<table style="width:100%;" class="table">
 <colgroup>
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
-<col width="20%">
+<col width="8%">
+<col width="41%">
+<col width="16%">
+<col width="16%">
+<col width="16%">
 </colgroup>
 <thead><tr class="header">
 <th>PID</th>
@@ -1641,10 +1641,10 @@ error was labeled with two codes—Error: moderate and Error: no status
 update. These describe the type and severity.</p>
 <table class="table">
 <colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
+<col width="10%">
+<col width="50%">
+<col width="20%">
+<col width="20%">
 </colgroup>
 <thead><tr class="header">
 <th>PID</th>
@@ -1716,60 +1716,102 @@ shown below. Generally, you will want to evaluate each task individually
 because that is how you will gain the most actionable insights.</p>
 <table class="table">
 <colgroup>
-<col width="50%">
-<col width="50%">
+<col width="57%">
+<col width="42%">
 </colgroup>
 <thead><tr class="header">
 <th>Metric</th>
 <th>Formula</th>
 </tr></thead>
-<tbody><tr class="odd">
+<tbody>
+<tr class="odd">
 <td>
 <em>Successes:</em> Number of participants who successfully complete
 a task. Also commonly reported as a rate.</td>
-<td><em>Total, calculated for each task:</em></td>
-</tr></tbody>
-</table>
-<p>number of success <em>Rate, calculated for each task:</em> (number of
-successful attempts / total task attempts) * 100 | | <em>Errors:</em>
-Number of mistakes made while attempting a task, possibly broken down by
-error type. Also commonly reported as a rate. When categorized,
-proportions may be reported. | <em>Total, calculated for each task:</em>
-number of mistakes identified <em>Rate, calculated for each task:</em>
-(number of mistakes identified / total task attempts) * 100
-<em>Proportion of one error type:</em> (number of mistakes of X type /
-number of errors of all types) * 100 | | <em>Clicks:</em> Number of
-clicks participants make when completing a task; a proxy for complexity
-or efficiency. | <em>Total, calculated for each task:</em> number of
-clicks | | <em>Completion time:</em> Time taken to complete a task. |
-<em>Calculated for each task in seconds:</em> time at task completion -
-time at task start - any time spent on extraneous things | | <em>Idle
-time:</em> Periods of inactivity during a task, indicating confusion or
-hesitation. | <em>Calculated for each task in seconds:</em> time at idle
-end - time at idle start | | <em>Drop-off rate:</em> Percentage of
-participants who stop a task before completing it. | <em>Rate,
-calculated for each task:</em> (number of people who do not complete a
-task / total task participants) * 100 | | <em>Self-reported ease:</em>
-Participants’ rating of how easy or difficult a task was to complete
-(e.g., using a Likert scale). | <em>Calculated for each survey item or
-combined items:</em> sum of ratings / total task participants | |
+<td>
+<em>Total, calculated for each task:</em> <br> number of successes
+<br><em>Rate, calculated for each task:</em> <br> (number of successful
+attempts / total task attempts) * 100</td>
+</tr>
+<tr class="even">
+<td>
+<em>Errors:</em> Number of mistakes made while attempting a task,
+possibly broken down by error type. Also commonly reported as a rate.
+When categorized, proportions may be reported.</td>
+<td>
+<em>Total, calculated for each task:</em> <br> number of mistakes
+identified <br><em>Rate, calculated for each task:</em> <br> (number of
+mistakes identified / total task attempts) * 100 <br><em>Proportion of
+one error type:</em> <br> (number of mistakes of X type / number of
+errors of all types) * 100</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Clicks:</em> Number of clicks participants make when completing
+a task; a proxy for complexity or efficiency.</td>
+<td>
+<em>Total, calculated for each task:</em> <br> number of clicks</td>
+</tr>
+<tr class="even">
+<td>
+<em>Completion time:</em> Time taken to complete a task.</td>
+<td>
+<em>Calculated for each task in seconds:</em> <br> time at task
+completion - time at task start - any time spent on extraneous
+things</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Idle time:</em> Periods of inactivity during a task, indicating
+confusion or hesitation.</td>
+<td>
+<em>Calculated for each task in seconds:</em> <br> time at idle end
+- time at idle start</td>
+</tr>
+<tr class="even">
+<td>
+<em>Drop-off rate:</em> Percentage of participants who stop a task
+before completing it.</td>
+<td>
+<em>Rate, calculated for each task:</em> <br> (number of people who
+do not complete a task / total task participants) * 100</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Self-reported ease:</em> Participants’ rating of how easy or
+difficult a task was to complete (e.g., using a Likert scale).</td>
+<td>
+<em>Calculated for each survey item or combined items:</em> <br> sum
+of ratings / total task participants</td>
+</tr>
+<tr class="even">
+<td>
 <em>Self-reported satisfaction:</em> Participants’ rating of how
-satisfied they are with the interface or experience. | <em>Calculated
-for each survey item or combined items:</em> sum of ratings / total task
-participants | | <em>Self-reported usefulness:</em> Participants’ rating
-of how useful the tool or service is. | <em>Calculated for each survey
-item or combined items:</em> sum of ratings / total task participants
-|</p>
+satisfied they are with the interface or experience.</td>
+<td>
+<em>Calculated for each survey item or combined items:</em> <br> sum
+of ratings / total task participants</td>
+</tr>
+<tr class="odd">
+<td>
+<em>Self-reported usefulness:</em> Participants’ rating of how
+useful the tool or service is.</td>
+<td>
+<em>Calculated for each survey item or combined items:</em> <br> sum
+of ratings / total task participants</td>
+</tr>
+</tbody>
+</table>
 <p>Because your sample sizes will likely be small, you should capture
 the range for any averages, meaning you will state the lowest and
 highest scores. And, when reporting rates, you should also include
 totals.</p>
-<div id="callout1" class="callout">
+<div id="reverse-scoring" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
-<div class="callout-inner">
-<h3 class="callout-title">Callout</h3>
+<div id="reverse-scoring" class="callout-inner">
+<h3 class="callout-title"><strong>Reverse scoring</strong></h3>
 <div class="callout-content">
 <p>Typically, when using self-report measures, a higher rating would
 indicate a more positive response. For example, when using a scale of
@@ -1782,9 +1824,10 @@ should occur before calculating combined metrics.</p>
 <div class="section level3">
 <h3 id="example-reverse-scoring">Example: Reverse scoring<a class="anchor" aria-label="anchor" href="#example-reverse-scoring"></a>
 </h3>
-<p>A score of 2 on a scale of 1-5 can be reverse scored to 4: (5+1) - 2
-= 4 A score of 7 on a scale of 1-10 can be reverse scored to 4: (10+1) -
-7 = 4).</p>
+<p>A score of 2 on a scale of 1-5 can be reverse scored to 4:</p>
+<p>(5+1) - 2 = 4</p>
+<p>A score of 7 on a scale of 1-10 can be reverse scored to 4:</p>
+<p>(10+1) - 7 = 4).</p>
 </div>
 </div>
 </div>
@@ -1812,19 +1855,27 @@ explain and answer questions.</p>
 <div class="callout-content">
 <p>In the Zoom poll, respond to questions about how easy to interpret
 each of the following options are.</p>
-<p><em>Option 1</em> Error rate: 87.5% Minor errors: 71.4% Average ease:
-4 Average confidence: 3.8</p>
-<p><em>Option 2</em> 87.5% attempts to install included an error, most
-(71.4%) of which were minor.</p>
-<p>Average ease on a 1-5 scale: 4 Average confidence on a 1-5 scale:
-3.8</p>
-<p><em>Option 3</em> 87.5% attempts to install included an error, most
-(71.4%) of which were minor.</p>
+<p><strong>Option 1</strong></p>
+<p>Error rate: 87.5%</p>
+<p>Minor errors: 71.4%</p>
+<p>Average ease: 4</p>
+<p>Average confidence: 3.8</p>
+<p><strong>Option 2</strong></p>
+<p>87.5% attempts to install included an error, most (71.4%) of which
+were minor.</p>
+<p>Average ease on a 1-5 scale: 4</p>
+<p>Average confidence on a 1-5 scale: 3.8</p>
+<p><strong>Option 3</strong></p>
+<p>87.5% attempts to install included an error, most (71.4%) of which
+were minor.</p>
 <p>Overall, the task was ______ to complete. (1 very easy - 5 very
-difficult) average ease: 4 range: 3-5</p>
+difficult)</p>
+<p>average ease: 4</p>
+<p>range: 3-5</p>
 <p>How much do you agree with the following statement: I felt very
-confident using the system. (1 strongly disagree - 5 strongly agree)
-average confidence: 3.8 range: 3-5</p>
+confident using the system. (1 strongly disagree - 5 strongly agree)</p>
+<p>average confidence: 3.8</p>
+<p>range: 3-5</p>
 </div>
 </div>
 </div>
@@ -1835,7 +1886,7 @@ average confidence: 3.8 range: 3-5</p>
 </button>
 <div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
 <div class="accordion-body">
-<p>Option 3 should be clearest. Formatting might help.</p>
+<p>Option 3 should be clearest. Different formatting might help.</p>
 </div>
 </div>
 </div>
