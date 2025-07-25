@@ -105,7 +105,7 @@ Recruitment is often the most difficult part of any study with human participant
 Snowball sampling is one approach to increasing your advertising efforts. Snowball sampling is when a potential participant refers the researcher to additional potential participants. This is great for recruitment but can introduce bias and must be done with care to protect participants’ privacy.
 
 ::::::::::::::::::::::::::::::::::::: challenge
-### Exercise  5: Snow ball sampling
+### Exercise  5: Snowball sampling
 In the Zoom poll, identify which recruitment tactics are examples of snowball sampling:
 
 - Asking someone who did not agree to participate if they know anyone else who might be willing
