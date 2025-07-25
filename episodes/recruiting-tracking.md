@@ -1,7 +1,7 @@
 ---
 title: "Recruiting and tracking participants"
-teaching: 0
-exercises: 0
+teaching: 35
+exercises: 10
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -90,11 +90,11 @@ The email could be improved in a number of ways (e.g., be less formal in tone) b
 :::::::::
 ::::::::::::::::::::::::::::::::::::: 
 
-::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::: spoiler
 Sometimes recruitment emails can get lengthy and that can be overwhelming, reducing your response rates. You might want to move some details below your email signature or into an [informed consent document](https://www.nngroup.com/articles/informed-consent/) to keep the request simple and clear. Depending on your institution and your goal for your research (i.e. to create generalizable knowledge or to inform only your own decision making), you may have an Institutional Review Board (IRB) that will have additional information and regulations you should heed when planning, executing, and recruiting for your study. If you have intentions to share, present, or publish data, reach out to your IRB for guidance.
+::::::::::::::::::::::::::::::::::::: 
 
 When scheduling participants, remember to give yourself some buffer time and end the test promptly at the time limit to respect the participant’s time. Don’t schedule test sessions back to back - give your team a break between sessions.
-::::::::::::::::::::::::::::::::::::: 
 
 ## Expanding your recruitment efforts
 Recruitment is often the most difficult part of any study with human participants. You might find that emails are not effective enough and you need to find more people. You may also be trying to recruit people who have never used your tool and that can be a surprisingly difficult type of person to reach.
