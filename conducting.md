@@ -41,6 +41,8 @@ If you are a part of a team with the capacity for more than one person to help w
 ::::::::::::::::::::::::::::: 
 
 ::::::::::::::::::::::::::::: challenge
+### Exercise 6: Thinking aloud
+
 In breakout rooms, you and a partner will act as study facilitator and participant in a rapid usability test. To save time, in this scenario, we will skip some other portions of orienting participants and the usual warm up questions.
 
 Choose your roles, have the participant share a browser window in Zoom, then have the facilitator read the script aloud and the participant engage in the assigned task. The facilitator can take notes in the place of their choice. Swap roles if you have time. We’ll discuss the exercise as a group when you’re done.
