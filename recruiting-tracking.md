@@ -5,15 +5,18 @@ exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
+
 - Who should I be recruiting?
 - How many people should I recruit?
 - How do I find users that I don't have a connection with already?
 - What is snowball sampling?
 - What ethical considerations should I have when doing user experience research and how does that work with my scientific research?
 - How can I keep track of (potential) participants and their data?
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
+
 - Define a value proposition for the tool to be studied
 - Define a target study population for user experience research
 - Craft a recruitment email
@@ -22,6 +25,7 @@ exercises: 0
 - Recruit participants who have never used your tool
 - Track participation in a protected spreadsheet
 - Establish a participant list for future testing
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Who to recruit
@@ -34,7 +38,7 @@ Based on your research question and value proposition, you can identify the gene
 
 | Research Question | Value Prop | Target Study Population | 
 | --- | --- | --- | 
-|When Slack users return to the design *after a period of not using it,* how quickly can they add a channel?|Via synced phone, browser, and desktop applications, Slack revolutionizes team communication by enabling seamless collaboration and enhanced productivity in a dynamic *work environment.*|Requirements:  <br> - Slack users who have not opened the app in XX days  <br> General type of person:  <br> - Use Slack for work with a team | 
+|When Slack users return to the design *after a period of not using it,* how quickly can they add a channel?|Via synced phone, browser, and desktop applications, Slack revolutionizes team communication by enabling seamless collaboration and enhanced productivity in a dynamic *work environment.*|**Requirements:**  <br> - Slack users who have not opened the app in XX days  <br> **General type of person:**  <br> - Use Slack for work with a team | 
 
 ## How many to recruit
 Once you know what type of person you want to talk to, you’ll next need to decide how many users you’d like to have in your study. There are no wrong answers here; what is important is that you feel comfortable with the data you’ve gathered and can use that data to make informed design decisions. If you are seeking statistical significance, you will need to recruit many more participants than you would otherwise. However, because rapid usability testing is easily applied in an iterative development process and because [you don’t need very many participants to gain insights](https://www.nngroup.com/articles/how-many-test-users/), we recommend testing with up to 10 people.
@@ -78,6 +82,7 @@ During the study session, I would observe you doing some typical tasks using PHA
 If you're able to participate, please share a day and time that would work well for you.
 
 Thanks for your consideration!
+
 best wishes,
 
 ::::::::: solution
