@@ -6,6 +6,7 @@ site: sandpaper::sandpaper_site
 This lesson is a five episode training on rapid usability testing. The lesson is intended to be delivered via Zoom and the exercises reflect this, though you can modify the materials for an in person workshop or other delivery format. 
 
 This lesson should teach you to:
+
 - Identify scenarios and tasks appropriate for rapid usability testing
 - Recruit for a user study and track participants’ data
 - Conduct and analyze results from a rapid usability assessment
