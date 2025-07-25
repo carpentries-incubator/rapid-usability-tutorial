@@ -142,15 +142,15 @@ Average confidence on a 1-5 scale: 3.8
 
 Overall, the task was ______ to complete. (1 very easy - 5 very difficult)
 
-    average ease: 4
+&nbsp;&nbsp;&nbsp;&nbsp;average ease: 4
 
-    range: 3-5 
+&nbsp;&nbsp;&nbsp;&nbsp;range: 3-5 
 
 How much do you agree with the following statement: I felt very confident using the system. (1 strongly disagree - 5 strongly agree)
 
-    average confidence: 3.8 
+&nbsp;&nbsp;&nbsp;&nbsp;average confidence: 3.8 
 
-    range: 3-5 
+&nbsp;&nbsp;&nbsp;&nbsp;range: 3-5 
 
 ::::::::: solution
 Option 3 should be clearest. Different formatting might help.
