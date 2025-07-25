@@ -41,6 +41,7 @@ In breakout rooms, you and a partner will act as study facilitator and participa
 Choose your roles, have the participant share a browser window in Zoom, then have the facilitator read the script aloud and the participant engage in the assigned task. The facilitator can take notes in the place of their choice. Swap roles if you have time. We’ll discuss the exercise as a group when you’re done.
 
 **SCRIPT**
+
 **Facilitator:** “While you work, please think-aloud as much as you can. That just means narrating out loud what you are doing, what you’re looking for, what you’re thinking. That will help me understand your thought process. If you fall silent for a little while, I’ll remind you to think-aloud. Otherwise I’m going to stay as quiet as possible until we reach the interview portion. Any questions?”
 
 **Facilitator:** “Ok. This is a link to the US-RSE website.”
@@ -49,6 +50,10 @@ Choose your roles, have the participant share a browser window in Zoom, then hav
 **Facilitator:** “Your first task is to go there and find information on how you could receive a financial award from US-RSE to support your work. Let me know when you’ve found the information.”
 *Remind participants to think-aloud if they fall silent too long while working.
 Take notes.*
+
+::::::::::::::: instructor
+Ask the group to talk about their experiences. What went well? What were they uncertain about? Did they actually follow the script? Could they take notes while listening? What questions do they have?
+::::::::::::::: 
 ::::::::::::::::::::::::::::: 
 
 After the session is over, store the recording into a private folder for raw data. Zoom will produce a transcript but services like Dovetail and Otter.ai also provide helpful audio transcription and sync the recording to the transcript itself. Review the transcript and anonymize it, removing names and identifiable information. Keep in mind that specific details about research projects can be very identifying. The [Qualitative Data Repository](https://qdr.syr.edu/guidance/human-participants/deidentification) has useful information on how to anonymize transcripts, as does [this article from the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/anonymisation/anonymising-qualitative-data/). Save this anonymized version in a separate folder from the raw data. Link in your tracking spreadsheet to the anonymized version.
