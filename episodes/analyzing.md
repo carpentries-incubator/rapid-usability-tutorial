@@ -1,7 +1,7 @@
 ---
 title: "Analyzing data and reporting results"
-teaching: 0
-exercises: 0
+teaching: 30
+exercises: 10
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -94,7 +94,7 @@ The formulas for calculating many of the common usability metrics are shown belo
 
 Because your sample sizes will likely be small, you should capture the range for any averages, meaning you will state the lowest and highest scores. And, when reporting rates, you should also include totals.
 
-::::::::::::::::::::::::::::::::::::: callout
+::::::::::::::::::::::::::::::::::::: spoiler
 ### **Reverse scoring**
 Typically, when using self-report measures, a higher rating would indicate a more positive response. For example, when using a scale of 1-5, a score of 5 on a question asking how useful a tool is would indicate a highly useful tool. If you use any self-report measures that are negatively phrased, such that a higher score means something bad, you need to *reverse score* that item. To reverse score, subtract the rating from the highest score possible plus one. Reverse scoring should occur before calculating combined metrics.
 
