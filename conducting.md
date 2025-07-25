@@ -1,7 +1,7 @@
 ---
 title: "Conducting a rapid usability test"
-teaching: 0
-exercises: 0
+teaching: 12
+exercises: 20
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -36,6 +36,7 @@ Sometimes participants might quit a task without finishing it or may get quite l
 It is tempting to want to fill gaps in conversation. However, [intentional silence can be a powerful technique for moderation](https://www.nngroup.com/articles/intentional-silence-ux/) and learning more from participants. Try to hold silences past your comfort point so that your participant fills the space and not you. Wait with a relaxed manner. If your participant asks a question, try offering a noncommittal, “Hmmm,” or, if this is during a follow up interview, you can encourage them to go on by saying, “Tell me more about that.”
 
 ::::::::::::::::::::::::::::: callout
+### Include multiple researchers
 If you are a part of a team with the capacity for more than one person to help with rapid usability testing, it can be helpful to plan for different roles and responsibilities during a session. For example, you might have a moderator verbally facilitate the session, a notetaker make and record real-time observations, and a tech role to manage recording, pasting in the meeting chat, and any other troubleshooting. Allowing for multiple roles–especially if a recording is not possible–can help each individual stay more focused and present in their role.
 ::::::::::::::::::::::::::::: 
 
@@ -65,6 +66,7 @@ After the session is over, store the recording into a private folder for raw dat
 It is also recommended to go through the recording on your own to note when there are long pauses or where a user's mouse was hovering when they were looking for a particular feature. This non-verbal information can be helpful in understanding your user's mindset and assumptions.
 
 ::::::::::::::::::::::::::::: callout
+### Ethics and policies in your area
 Your institution may have an IRB that has additional guidance or policies on anonymization or data retention. If you are collecting data in the EU or European Economic Area or are otherwise subject to the General Data Protection Regulation (GDPR), note that after anonymization, you should remove any records that would allow you to re-identify data (e.g., identifying info in your participant tracker). [UCSF has helpful information](https://irb.ucsf.edu/gdpr) on understanding GDPR policies.
 ::::::::::::::::::::::::::::: 
 
