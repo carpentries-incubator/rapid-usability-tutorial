@@ -11,5 +11,5 @@
 "episodes/analyzing.md" "b8643e46564d157196418efa69b762e6" "site/built/analyzing.md" "2025-07-25"
 "instructors/instructor-notes.md" "289443237c035eace603d0c01bf65462" "site/built/instructor-notes.md" "2025-07-25"
 "learners/reference.md" "1c7cc4e229304d9806a13f69ca1b8ba4" "site/built/reference.md" "2023-03-16"
-"learners/setup.md" "bac7411af89dfd0c18b408024f55eb92" "site/built/setup.md" "2025-07-25"
+"learners/setup.md" "81ee3e26161aca6cd2695b9d052dca76" "site/built/setup.md" "2025-07-25"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2022-04-22"
