@@ -114,6 +114,8 @@ When presenting results from your study, give your audience context so they can 
 How you plan on delivering results will affect the depth of context you need to share. Will you be delivering a write-up or report? Will you present your findings in real-time? Will you be sharing your slides with them afterward? You may need to include more details if your audience will be reviewing the results asynchronously, without you being there to explain and answer questions.
 
 ::::::::::::::::::::::::::::::::::::: challenge
+### Exercise 8: Which is clearer? 
+
 In the Zoom poll, respond to questions about how easy to interpret each of the following options are.
 
 **Option 1**
@@ -140,15 +142,15 @@ Average confidence on a 1-5 scale: 3.8
 
 Overall, the task was ______ to complete. (1 very easy - 5 very difficult)
 
-average ease: 4
+    average ease: 4
 
-range: 3-5 
+    range: 3-5 
 
 How much do you agree with the following statement: I felt very confident using the system. (1 strongly disagree - 5 strongly agree)
 
-average confidence: 3.8 
+    average confidence: 3.8 
 
-range: 3-5 
+    range: 3-5 
 
 ::::::::: solution
 Option 3 should be clearest. Different formatting might help.
