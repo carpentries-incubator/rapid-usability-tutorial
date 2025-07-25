@@ -21,6 +21,7 @@ This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-
 This lesson could use your help! Please see the CONTRIBUTING.md file for instructions.
 
 The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/). The team's thanks go to current and past contributors:
+
 - Kate Arneson (content development, feedback)
 - Hannah Cohoon (content development, presentation)
 - Rajshree Deshmukh (feedback, presentation)
@@ -33,6 +34,7 @@ The [STRUDEL](https://strudel.science) project maintains this lesson with suppor
 - Maryam Vareth (feedback)
 
 ## Citation
+Coming soon!
 
 ## License
 This content is published with a [BSD-3-Clause-LBNL license](LICENSE.md). 
