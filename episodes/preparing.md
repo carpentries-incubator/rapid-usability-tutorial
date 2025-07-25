@@ -1,7 +1,7 @@
 ---
 title: "Preparing a rapid usability test"
-teaching: 0
-exercises: 0
+teaching: 25
+exercises: 5
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
