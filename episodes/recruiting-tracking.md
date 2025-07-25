@@ -91,6 +91,9 @@ The email could be improved in a number of ways (e.g., be less formal in tone) b
 ::::::::::::::::::::::::::::::::::::: 
 
 ::::::::::::::::::::::::::::::::::::: spoiler
+
+### Informed Consent Documents
+
 Sometimes recruitment emails can get lengthy and that can be overwhelming, reducing your response rates. You might want to move some details below your email signature or into an [informed consent document](https://www.nngroup.com/articles/informed-consent/) to keep the request simple and clear. Depending on your institution and your goal for your research (i.e. to create generalizable knowledge or to inform only your own decision making), you may have an Institutional Review Board (IRB) that will have additional information and regulations you should heed when planning, executing, and recruiting for your study. If you have intentions to share, present, or publish data, reach out to your IRB for guidance.
 ::::::::::::::::::::::::::::::::::::: 
 
