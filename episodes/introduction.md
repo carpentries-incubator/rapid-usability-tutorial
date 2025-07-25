@@ -1,7 +1,7 @@
 ---
 title: "What is Rapid Usability Testing?"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 15
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
