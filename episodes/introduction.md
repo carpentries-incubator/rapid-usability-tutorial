@@ -86,7 +86,7 @@ Facilitator: Thanks for joining me today. I’m Hannah and I’ll be guiding you
 *Facilitator:* Alright, well thank you for participating. I hope you enjoy the rest of your day.
 :::::::::::::::
 
-![](ep1_infographic.png){alt='An infographic on User Experience Research and Rapid Usability testing'}
+![](fig/ep1_infographic.png){alt='An infographic on User Experience Research and Rapid Usability testing'}
 
 There are many methods to study user experiences. You could do interviews, observation, participatory design, A/B testing, surveys, contextual inquiry, card sorting, or one of many more options. 
 
