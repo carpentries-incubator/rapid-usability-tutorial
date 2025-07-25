@@ -1,5 +1,7 @@
 ## Contributing
 
+**Note:** The content in this contributing.md file needs to be updated to better reflect the needs of the Rapid Usability Testing tutorial, rather than Carpentries lessons as a whole. The content below still applies to this repo, but if you have something you would like to contribute and are uncertain about how or if you should, go ahead and open an issue saying so. We'd like to hear from you!
+
 [The Carpentries][cp-site] ([Software Carpentry][swc-site], [Data
 Carpentry][dc-site], and [Library Carpentry][lc-site]) are open source
 projects, and we welcome contributions of all kinds: new lessons, fixes to
