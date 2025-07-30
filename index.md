@@ -13,8 +13,6 @@ This lesson should teach you to:
 
 There are no prerequisites for this tutorial.
 
-The time estimates for how long each episode takes are initial estimates that need revision. Take them as a very rough guide.
-
 ## Tutorial events
 This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-rse.org/events/2025/2025-06-education-training-talk/). 
 
