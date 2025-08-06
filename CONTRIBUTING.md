@@ -88,7 +88,8 @@ Presently, Hannah Cohoon of Lawrence Berkeley National Lab's STRUDEL project is 
 If you would like to become a maintainer, [open an issue in this repo][issues] indicating as such. 
 
 #### Creators
-Creators are the original set of people who developed the content for this lesson:
+Creators are the original set of people who developed the content for this lesson and are the authors listed in 
+the [citation](CITATION.cff) for this lesson:
 
 - Hannah Cohoon, LBNL
 - Mary Goldman, UCSC
