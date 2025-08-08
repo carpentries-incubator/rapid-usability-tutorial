@@ -1,6 +1,8 @@
 ---
 title: 'Reference'
 ---
+This page highlights linked resources and term definitions referenced in this lesson.
+
 ## Resources
 Throughout this lesson, we link to several external resources:
 
