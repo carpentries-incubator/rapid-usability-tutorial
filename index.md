@@ -38,7 +38,9 @@ The [STRUDEL](https://strudel.science) project maintains this lesson with suppor
 Coming soon!
 
 ## License
-This content is published with a [BSD-3-Clause-LBNL license](LICENSE.md). 
+This content is openly published with a [CC-BY-4 license](LICENSE.md). You may reuse and remix it but should provide attribution using the citation above.
+
+Copyright (c) 2025, The Regents of the University of California, through Lawrence Berkeley National Laboratory (subject to receipt of any required approvals from the U.S. Dept. of Energy). All rights reserved.
 
 ## Contact
 If you have feedback or wish to make a contribution, please follow the instructions in CONTRIBUTING.md. For other inquiries, please contact the STRUDEL team at strudel@lbl.gov.
