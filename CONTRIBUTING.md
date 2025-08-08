@@ -1,6 +1,6 @@
 ## Contributing
 
-This lesson was initially developed with grant funding from the [Alfred P. Sloan Foundation](https://sloan.org/). The [STRUDEL project](https://strudel.science/), [Superbloom Design](https://superbloom.design/), and [The Carpentries](https://carpentries.org/) collaborated to create it with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/). **The continued development and maintenance of this lesson is an open, collaborative endeavor and we invite you to become a contributor.**
+This lesson was initially developed with grant funding from the [Alfred P. Sloan Foundation](https://sloan.org/). The [STRUDEL project](https://strudel.science/) at Lawrence Berkeley National Lab, [Superbloom Design](https://superbloom.design/), and [The Carpentries](https://carpentries.org/) collaborated to create it with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/). **The continued development and maintenance of this lesson is an open, collaborative endeavor and we invite you to become a contributor.**
 
 ### Contributors
 Thanks go to current and past contributors:
