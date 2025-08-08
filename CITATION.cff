@@ -5,7 +5,7 @@
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: FIXME
+title: Lesson on Rapid Usability Testing
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -13,10 +13,25 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Johanna
+    family-names: Cohoon
+  - given-names: Mary
+    family-names: Goldman
+  - given-names: Katherine
+    family-names: Arneson
+  - given-names: Rajshree
+    family-names: Deshmukh
+  - given-names: Eriol
+    family-names: Fox
+  - given-names: Anh
+    family-names: Le
+identifiers:
+  - type: doi
+    value: 'https://doi.org/10.5281/zenodo.16782384'
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  This lesson is a five episode training on rapid usability testing 
+  for scientific software developers. This lesson should teach you to: 
+  identify scenarios and tasks appropriate for rapid usability testing, 
+  recruit for a user study and track participants’ data, and conduct 
+  and analyze results from a rapid usability assessment
 license: CC-BY-4.0
