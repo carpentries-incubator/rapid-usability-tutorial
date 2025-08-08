@@ -31,5 +31,9 @@ Thanks go to current and past contributors:
 - Lavanya Ramakrishnan (feedback)
 - Maryam Vareth (feedback)
 
-## License
-This lesson is shared under the [CC BY 4.0 license.](LICENCE.cff)
+## License + Citation
+This lesson is shared under the [CC BY 4.0 license.](LICENCE.cff) You can re-use and re-mix it. Please cite:
+
+Cohoon, J., Goldman, M., Arneson, K., Deshmukh, R., Fox, E., & Le, A. (2025, June 24). Lesson on Rapid Usability Testing. Zenodo. https://doi.org/10.5281/zenodo.16782384
+
+Copyright (c) 2025, The Regents of the University of California, through Lawrence Berkeley National Laboratory (subject to receipt of any required approvals from the U.S. Dept. of Energy). All rights reserved.
