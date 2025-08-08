@@ -10,6 +10,6 @@
 "episodes/conducting.md" "0a177a7f9c74ae1fae8d20848835429c" "site/built/conducting.md" "2025-07-25"
 "episodes/analyzing.md" "b8643e46564d157196418efa69b762e6" "site/built/analyzing.md" "2025-07-25"
 "instructors/instructor-notes.md" "289443237c035eace603d0c01bf65462" "site/built/instructor-notes.md" "2025-07-25"
-"learners/reference.md" "1c7cc4e229304d9806a13f69ca1b8ba4" "site/built/reference.md" "2023-03-16"
+"learners/reference.md" "1be400878754c811a091b63c02f57a27" "site/built/reference.md" "2025-08-08"
 "learners/setup.md" "81ee3e26161aca6cd2695b9d052dca76" "site/built/setup.md" "2025-07-25"
 "profiles/learner-profiles.md" "6f74fd7182bc7c2dac49fb565105420a" "site/built/learner-profiles.md" "2025-08-08"
