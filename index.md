@@ -21,21 +21,29 @@ This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-
 ## Contributing
 This lesson could use your help! Please see the [CONTRIBUTING.md file](CONTRIBUTING.md) for instructions.
 
-The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/). The team's thanks go to current and past contributors:
+The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/) through funding from  the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557.. The team's thanks go to current and past contributors:
 
 - Kate Arneson (content development, feedback)
+- Erin Becker (consulting on format and approach)
 - Hannah Cohoon (content development, presentation)
 - Rajshree Deshmukh (feedback, presentation)
 - Eriol Fox (content development, feedback)
 - Mary Goldman (content development, feedback, presentation)
+- Toby Hodges (consulting on format and approach)
 - Anh Le (content development, feedback)
-- Cody O'Donnell (feedback)
+- Cody O’Donnell (feedback)
 - Drew Paine (feedback)
 - Lavanya Ramakrishnan (feedback)
 - Maryam Vareth (feedback)
 
-## Citation
-Coming soon!
+Thanks also go to the following organizations that have supported this effort:
+- [US-RSE user experience working group](https://us-rse.org/wg/ux/)
+- [The Carpentries](https://carpentries.org/)
+- [Superbloom](https://superbloom.design/)
+- [STRUDEL project](https://strudel.science/), current maintainers for this lesson
+
+### Citation
+Cohoon, J., Goldman, M., Arneson, K., Deshmukh, R., Fox, E., & Le, A. (2025, June 24). Lesson on Rapid Usability Testing. Zenodo. https://doi.org/10.5281/zenodo.16782384
 
 ## License
 This content is openly published with a [CC-BY-4 license](LICENSE.md). You may reuse and remix it but should provide attribution using the citation above.
