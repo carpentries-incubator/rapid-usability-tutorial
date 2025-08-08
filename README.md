@@ -31,6 +31,15 @@ Thanks go to current and past contributors:
 - Lavanya Ramakrishnan (feedback)
 - Maryam Vareth (feedback)
 
+Thanks also go to the following organizations that have supported this effort:
+- [US-RSE user experience working group](https://us-rse.org/wg/ux/)
+- [The Carpentries](https://carpentries.org/)
+- [Superbloom](https://superbloom.design/)
+- [STRUDEL project](https://strudel.science/), current maintainers for this lesson
+
+This work was funded by the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557.
+
+
 ## License + Citation
 This lesson is shared under the [CC BY 4.0 license.](LICENCE.cff) You can re-use and re-mix it. Please cite:
 
