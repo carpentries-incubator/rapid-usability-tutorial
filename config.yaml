@@ -34,7 +34,7 @@ life_cycle: 'alpha'
 license: 'BSD-3-Clause-LBNL'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/strudel-science/rapid-usability-tutorial'
+source: 'https://github.com/UXCraftForScientificSoftware/rapid-usability-tutorial'
 
 # Default branch of your lesson
 branch: 'main'

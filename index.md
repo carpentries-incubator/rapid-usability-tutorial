@@ -21,7 +21,7 @@ This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-
 ## Contributing
 This lesson could use your help! Please see the [CONTRIBUTING.md file](CONTRIBUTING.md) for instructions.
 
-The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/) through funding from  the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557.. The team's thanks go to current and past contributors:
+The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/) through funding from  the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557. The team's thanks go to current and past contributors:
 
 - Kate Arneson (content development, feedback)
 - Erin Becker (consulting on format and approach)
@@ -37,6 +37,7 @@ The [STRUDEL](https://strudel.science) project maintains this lesson with suppor
 - Maryam Vareth (feedback)
 
 Thanks also go to the following organizations that have supported this effort:
+
 - [US-RSE user experience working group](https://us-rse.org/wg/ux/)
 - [The Carpentries](https://carpentries.org/)
 - [Superbloom](https://superbloom.design/)
