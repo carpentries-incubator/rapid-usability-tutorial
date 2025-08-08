@@ -114,8 +114,8 @@ media, slack, newsletters, and email lists. You can also [reach us by
 email][contact].
 
 
-[repo]: https://github.com/strudel-science/rapid-usability-tutorial/
-[repo-issues]: https://github.com/strudel-science/rapid-usability-tutorial/issues
+[repo]: https://github.com/UXCraftForScientificSoftware/rapid-usability-tutorial/
+[repo-issues]: https://github.com/UXCraftForScientificSoftware/rapid-usability-tutorial/issues
 [contact]: mailto:strudel@lbl.gov
 [cp-site]: https://carpentries.org/
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
@@ -126,7 +126,7 @@ email][contact].
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/strudel-science/rapid-usability-tutorial/issues
+[issues]: https://github.com/UXCraftForScientificSoftware/rapid-usability-tutorial/issues
 [lc-issues]: https://github.com/issues?q=user%3ALibraryCarpentry
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: https://software-carpentry.org/lessons/
