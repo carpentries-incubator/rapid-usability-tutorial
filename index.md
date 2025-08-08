@@ -19,7 +19,7 @@ This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-
 *Have you taught this lesson? Make a pull request to add your event and recording to the list above.*
 
 ## Contributing
-This lesson could use your help! Please see the [CONTRIBUTING.md file](CONTRIBUTING.md) for instructions.
+This lesson could use your help! Please see the [CONTRIBUTING.md file](https://github.com/UXCraftForScientificSoftware/rapid-usability-tutorial/blob/main/CONTRIBUTING.md) for instructions.
 
 The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/) through funding from  the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557. The team's thanks go to current and past contributors:
 
