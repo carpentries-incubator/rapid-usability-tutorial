@@ -17,6 +17,7 @@ There are no prerequisites for this tutorial.
 This lesson was delivered to the US-RSE community on [June 24, 2025](https://us-rse.org/events/2025/2025-06-education-training-talk/). 
 
 *Have you taught this lesson? Make a pull request to add your event and recording to the list above.*
+*Would you like to teach this lesson? You can! Email us to say so at strudel@lbl.gov*
 
 ## Contributing
 This lesson could use your help! Please see the [CONTRIBUTING.md file](https://github.com/UXCraftForScientificSoftware/rapid-usability-tutorial/blob/main/CONTRIBUTING.md) for instructions.
