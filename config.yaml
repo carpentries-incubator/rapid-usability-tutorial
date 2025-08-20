@@ -31,7 +31,7 @@ keywords: 'usability, ux, software, lesson, The Carpentries'
 life_cycle: 'alpha'
 
 # License of the lesson
-license: 'BSD-3-Clause-LBNL'
+license: 'CCBY 4.0'
 
 # Link to the source repository for this lesson
 source: 'https://github.com/UXCraftForScientificSoftware/rapid-usability-tutorial'
