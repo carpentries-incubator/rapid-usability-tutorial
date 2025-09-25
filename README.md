@@ -9,7 +9,7 @@ This lesson should teach you to:
 
 There are no prerequisites for this tutorial.
 
-View the lesson rendered nicely [here.](https://uxcraftforscientificsoftware.github.io/rapid-usability-tutorial/)
+View the lesson rendered nicely [here.](https://carpentries-incubator.github.io/rapid-usability-tutorial/)
 
 ## Contributing
 We would love your feedback, fixes, ideas, revisions, figures, etc! See [CONTRIBUTING.md](CONTRIBUTING.md) for how.
