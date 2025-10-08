@@ -24,7 +24,8 @@ Thanks also go to the following organizations that have supported this effort:
 - [Superbloom](https://superbloom.design/)
 - [STRUDEL project](https://strudel.science/), current maintainers for this lesson
 
-This work was funded by the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557.
+STRUDEL is an effort of the Lawrence Berkeley National Lab Scientific Data (SciData) Division UX team.
+The project is generously funded by the Alfred P. Sloan Foundation, Liz Vu & Josh Greenberg Program Officers, grants #10074 and #10572
 
 ### Contributor Agreement
 
