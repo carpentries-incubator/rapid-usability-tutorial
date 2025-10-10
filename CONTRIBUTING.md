@@ -35,7 +35,7 @@ Our lessons are community-driven. By submitting your work, you agree to license 
 This lesson was developed in partnership with The Carpentries and is part of
 their [incubator program](https://carpentries-incubator.org/). Everyone involved in The Carpentries agrees to abide by their [code of conduct](CODE_OF_CONDUCT.md).
 
-### What and how to Contribute
+### What and How to Contribute
 There are many ways to contribute, and we’d love for you to get involved:
 
 #### Substantial changes
