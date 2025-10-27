@@ -29,11 +29,9 @@ STRUDEL is an effort of the Lawrence Berkeley National Lab Scientific Data (SciD
 The project is generously funded by the Alfred P. Sloan Foundation, Liz Vu & Josh Greenberg Program Officers, grants #10074 and #10572
 
 ### Contributor Agreement
+This lesson was developed in partnership with The Carpentries and is part of their [incubator program](https://carpentries-incubator.org/). 
 
-Our lessons are community-driven. By submitting your work, you agree to license it under the Creative Commons Attribution (CC BY 4.0) [license](LICENSE.md). You retain copyright, but grant The Carpentries the right to use, modify, and redistribute your contribution under this license. In return, we commit to reviewing contributions promptly, providing constructive feedback, and supporting your participation in our community. All contributions must follow The Carpentries’ [Code of Conduct](CODE_OF_CONDUCT.md), which ensures a respectful and inclusive environment.
-
-This lesson was developed in partnership with The Carpentries and is part of
-their [incubator program](https://carpentries-incubator.org/). Everyone involved in The Carpentries agrees to abide by their [code of conduct](CODE_OF_CONDUCT.md).
+Carpentries lessons are community-driven. By submitting your work, you agree to license it under the Creative Commons Attribution (CC BY 4.0) [license](LICENSE.md). You retain copyright, but grant The Carpentries the right to use, modify, and redistribute your contribution under this license. In return, we commit to reviewing contributions promptly, providing constructive feedback, and supporting your participation in our community. All contributions must follow The Carpentries’ [Code of Conduct](CODE_OF_CONDUCT.md), which ensures a respectful and inclusive environment.
 
 ### What and How to Contribute
 There are many ways to contribute, and we’d love for you to get involved:
@@ -62,7 +60,7 @@ recognize three roles for people working on this project: contributors, maintain
 #### Contributors
 Contributors are people who have given advice or written content that was incorporated into this lesson.
 People who have presented this lesson are also considered contributors. You can become a contributor
-by opening an issue or pull request. When suggestions or changes are integrated, your name will be added to the alphabetical list of contributors above.
+by opening an issue or pull request or by sending us an [email][contact]. When suggestions or changes are integrated, your name will be added to the alphabetical list of contributors above.
 
 #### Maintainers
 Maintainers are contributors that have a formal responsibility keeping this lesson usable by the community.
