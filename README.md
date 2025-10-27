@@ -16,20 +16,7 @@ We would love your feedback, fixes, ideas, revisions, figures, etc! See [CONTRIB
 
 This lesson uses The Carpentries Workbench. If you want to make a change to the template for this lesson, do that in [the Sandpaper repo](https://github.com/carpentries/sandpaper?tab=contributing-ov-file).
 
-Thanks go to current and past contributors:
-
-- Kate Arneson (content development, feedback)
-- Erin Becker (consulting on format and approach)
-- Hannah Cohoon (content development, presentation)
-- Rajshree Deshmukh (feedback, presentation)
-- Eriol Fox (content development, feedback)
-- Mary Goldman (content development, feedback, presentation)
-- Toby Hodges (consulting on format and approach)
-- Anh Le (content development, feedback)
-- Cody O’Donnell (feedback)
-- Drew Paine (feedback)
-- Lavanya Ramakrishnan (feedback)
-- Maryam Vareth (feedback)
+Thanks go to current and past contributors, listed in our [CONTRIBUTING.md](CONTRIBUTING.md#contributors) file.
 
 Thanks also go to the following organizations that have supported this effort:
 - [US-RSE user experience working group](https://us-rse.org/wg/ux/)
