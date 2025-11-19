@@ -41,13 +41,15 @@ In this example, the coding scheme includes: task, emotional state, and memory i
 
 ## Categorizing errors
 If you are interested in errors, you may use error categories as part of your coding scheme. Common error types include: 
-- Failed attempts: Entering invalid data, such as incorrect login credentials or formatting errors.
+
+- Failed attempts: Entering invalid data, such as incorrect login credentials or formatting errors. 
 - Misnavigation: Navigating to unintended pages or sections.
 - Repeated actions: Attempting the same action multiple times unsuccessfully.
 - Incomplete tasks: Abandoning a task or failing to achieve the intended goal.
 - System errors: Triggering error messages or encountering broken functionality.
 
 You could also assign a severity to errors. A severity scale you could use is: 
+
 - Critical: Prevents users from completing a task (e.g., broken functionality or unclear instructions).
 - Moderate: Slows users down or causes frustration but doesn't prevent task completion.
 - Minor: Small mistakes with minimal impact on task completion.
