@@ -121,7 +121,7 @@ In the Zoom poll, identify which recruitment tactics are examples of snowball sa
 :::::::::::::::::::::::::::::::::::::
 
 ## Tracking participation
-You’ll need a central place where you can keep track of who you have recruited and when/if they will be participating. Create a spreadsheet for this.  It can be especially useful to also include when people were contacted and followed up with as well as links to session transcripts or recordings and notes. See the image below or follow [this link](https://docs.google.com/spreadsheets/d/1sNjgCn-u8R545Au8ypEXyH_2Kf5mWtgzP_qRw6aPAwY/edit?gid=0#gid=0) to a template participant tracker that you can make a copy of and use yourself. 
+You’ll need a central place where you can keep track of who you have recruited and when/if they will be participating. Create a spreadsheet for this.  It can be especially useful to also include when people were contacted and followed up with as well as links to session transcripts or recordings and notes. See the image below or follow [this link to a template participant tracker](https://docs.google.com/spreadsheets/d/1sNjgCn-u8R545Au8ypEXyH_2Kf5mWtgzP_qRw6aPAwY/edit?gid=0#gid=0) that you can make a copy of and use yourself. 
 
 ![](fig/ep3_recruit.png){alt='A screenshot of a Google Sheet with columns for Participant ID, Name, Email, Session date and more.'}
 
