@@ -6,7 +6,7 @@ This lesson was initially developed with grant funding from the [Alfred P. Sloan
 Thanks go to current and past contributors:
 
 - Kate Arneson (content development, feedback)
-- Erin Becker (consulting on format and approach)
+- Erin Becker (consulting on format and approach, feedback, fixes)
 - Hannah Cohoon (content development, presentation)
 - Rajshree Deshmukh (feedback, presentation)
 - Eriol Fox (content development, feedback)
