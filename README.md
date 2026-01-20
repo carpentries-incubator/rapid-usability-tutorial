@@ -37,6 +37,8 @@ This work was funded by the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenb
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+[![All Contributors](https://img.shields.io/github/all-contributors/carpentries-incubator/rapid-usability-tutorial?color=ee8449&style=flat-square)](#contributors)
+
 ## License + Citation
 This lesson is shared under the [CC BY 4.0 license.](LICENCE.cff) You can re-use and re-mix it. Please cite:
 
