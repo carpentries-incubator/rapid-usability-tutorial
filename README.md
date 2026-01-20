@@ -14,7 +14,7 @@ View the lesson rendered nicely [here.](https://carpentries-incubator.github.io/
 ## Contributing
 We would love your feedback, fixes, ideas, revisions, figures, etc! See [CONTRIBUTING.md](CONTRIBUTING.md) for how.
 
-This lesson uses The Carpentries Workbench. If you want to make a change to the template for this lesson, do that in [the Sandpaper repo](https://github.com/carpentries/sandpaper?tab=contributing-ov-file).
+This lesson uses The Carpentries Workbench. *If you want to make a change to the UI or template for this lesson,* do that in [the Sandpaper repo](https://github.com/carpentries/sandpaper?tab=contributing-ov-file).
 
 Thanks go to current and past contributors, listed in our [CONTRIBUTING.md](CONTRIBUTING.md#contributors) file.
 
