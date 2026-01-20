@@ -12,7 +12,7 @@ There are no prerequisites for this tutorial.
 View the lesson rendered nicely [here.](https://carpentries-incubator.github.io/rapid-usability-tutorial/)
 
 ## Contributing
-We would love your feedback, fixes, ideas, revisions, figures, etc! See [CONTRIBUTING.md](CONTRIBUTING.md) for how.
+We would love your feedback, fixes, ideas, revisions, figures, etc. See [CONTRIBUTING.md](CONTRIBUTING.md) for how.
 
 This lesson uses The Carpentries Workbench. If you want to make a change to the template for this lesson, do that in [the Sandpaper repo](https://github.com/carpentries/sandpaper?tab=contributing-ov-file).
 
