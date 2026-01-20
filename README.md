@@ -26,6 +26,14 @@ Thanks also go to the following organizations that have supported this effort:
 
 This work was funded by the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557.
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License + Citation
 This lesson is shared under the [CC BY 4.0 license.](LICENCE.cff) You can re-use and re-mix it. Please cite:
