@@ -26,6 +26,8 @@ Thanks also go to the following organizations that have supported this effort:
 
 This work was funded by the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557.
 
+## Contributors
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
