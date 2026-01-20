@@ -1,4 +1,5 @@
 {
   "projectName": "rapid-usability-tutorial",
-  "projectOwner": "carpentries-incubator"
+  "projectOwner": "carpentries-incubator",
+  "skipCi": true
 }
