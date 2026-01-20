@@ -34,22 +34,31 @@ This lesson was developed in partnership with The Carpentries and is part of the
 Carpentries lessons are community-driven. By submitting your work, you agree to license it under the Creative Commons Attribution (CC BY 4.0) [license](LICENSE.md). You retain copyright, but grant The Carpentries the right to use, modify, and redistribute your contribution under this license. In return, we commit to reviewing contributions promptly, providing constructive feedback, and supporting your participation in our community. All contributions must follow The Carpentries’ [Code of Conduct](CODE_OF_CONDUCT.md), which ensures a respectful and inclusive environment.
 
 ### What and How to Contribute
-There are many ways to contribute, and we’d love for you to get involved:
+There are many ways to contribute, and we’d love for you to get involved. See below for some suggestions on the kinds of edits you can make and how we'll evaluate them.
 
-#### Substantial changes
+As you work, you may find it helpful to reference Carpentries information on formatting the different kinds of callouts and collapsable content like exercises might be useful: https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html
+https://carpentries.github.io/lesson-development-training/lesson-content.html#adding-exercises
+
+#### Addressing open issues
+We may have some issues already identified that you can address. Check the list [here](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues). If you see one you would like to work on, leave a comment in the issue saying so and describing your plan. When you've finished making edits, open a pull request with the fixes.
+
+#### Proposing substantial changes
 If you have an idea for a bigger change (like adding or re-working lesson content), please start by opening an [issue](repo-issues). This gives us a chance to discuss how your idea fits with the lesson goals before you spend time writing. You don’t need to write the lesson yourself if you don’t want to. Sharing the idea is already valuable.
 
 When suggesting new exercises or material, please estimate how long they would take to teach.
 Also let us know what you would remove to make space. This helps us keep lessons focused and realistic.
 
-#### Small fixes
-If you find typos, broken links, or other quick improvements, go ahead and open a pull request with the fix. If you’re not sure how, just open an [issue][repo-issues] or [email the maintainers][contact] and we’ll help.
+#### Making small fixes
+If you find typos, broken links, or other quick improvements, go ahead and open a pull request with the fix. If you’re not sure how, just open an [issue][repo-issues] or [email the maintainers][contact] and we’ll help. **If you are making these fixes as part of a hackathon or workshop, open an issue or comment on a relevant open one before making your pull request so that others know what you're up to and don't duplicate your work.**
 
 #### Comments and reviews
 Feedback is as important as new content. Commenting on issues or reviewing pull requests helps improve lessons for everyone. Fresh eyes are especially useful—novices often notice what experienced users overlook.
 
 #### Website template
 If you’d like to change the lesson website template itself, please see [The Carpentries Workbench][template-doc] documentation. Lesson maintainers handle content only, not the template.
+
+#### How we'll evaluate your contributions
+Pull requests will be evaluated for their accuracy, relevance to the lesson topic, pithiness, and tone. We aim to reduce rather than expand content, so we will avoid adding information without cutting content as well. The tone of your content additions should be professional and friendly. Overall, we seek to teach through exercises (also called Challenges) rather than regular text, so preference is given to conveying material through hands on work rather than simply reading/listening. Keep in mind, the lesson should provide just enough information for a novice to proceed—this is not a resource for experts but for newcomers, so scale your additions accordingly. If you make changes to an episode, please check that the "Overview" and "Key Points" don't need adjusting after your edits.
 
 ### Roles and Recognition
 A formal governance structure for this lesson is still being established; the procedures
