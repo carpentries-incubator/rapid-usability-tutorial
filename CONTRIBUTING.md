@@ -43,13 +43,13 @@ https://carpentries.github.io/lesson-development-training/lesson-content.html#ad
 We may have some issues already identified that you can address. Check the list [here](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues). If you see one you would like to work on, leave a comment in the issue saying so and describing your plan. When you've finished making edits, open a pull request with the fixes.
 
 #### Proposing substantial changes
-If you have an idea for a bigger change (like adding or re-working lesson content), please start by opening an [issue](repo-issues). This gives us a chance to discuss how your idea fits with the lesson goals before you spend time writing. You don’t need to write the lesson yourself if you don’t want to. Sharing the idea is already valuable.
+If you have an idea for a bigger change (like adding or re-working lesson content), please start by opening an [issue](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues). This gives us a chance to discuss how your idea fits with the lesson goals before you spend time writing. You don’t need to write the lesson yourself if you don’t want to. Sharing the idea is already valuable.
 
 When suggesting new exercises or material, please estimate how long they would take to teach.
 Also let us know what you would remove to make space. This helps us keep lessons focused and realistic.
 
 #### Making small fixes
-If you find typos, broken links, or other quick improvements, go ahead and open a pull request with the fix. If you’re not sure how, just open an [issue][repo-issues] or [email the maintainers][contact] and we’ll help. **If you are making these fixes as part of a hackathon or workshop, open an issue or comment on a relevant open one before making your pull request so that others know what you're up to and don't duplicate your work.**
+If you find typos, broken links, or other quick improvements, go ahead and open a pull request with the fix. If you’re not sure how, just open an [issue](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues) or [email the maintainers][contact] and we’ll help. **If you are making these fixes as part of a hackathon or workshop, open an issue or comment on a relevant open one before making your pull request so that others know what you're up to and don't duplicate your work.**
 
 #### Comments and reviews
 Feedback is as important as new content. Commenting on issues or reviewing pull requests helps improve lessons for everyone. Fresh eyes are especially useful—novices often notice what experienced users overlook.
