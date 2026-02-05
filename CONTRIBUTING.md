@@ -39,6 +39,8 @@ There are many ways to contribute, and we’d love for you to get involved. See 
 As you work, you may find it helpful to reference Carpentries information on formatting the different kinds of callouts and collapsable content like exercises might be useful: https://carpentries.github.io/sandpaper-docs/instructor/component-guide.html
 https://carpentries.github.io/lesson-development-training/lesson-content.html#adding-exercises
 
+*The instructions below might tell you to open a pull request.* To do so, [create a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of this repository, then make the changes in your fork ([this can be done in the browser](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) if you wish). Then you will be able to [open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). 
+
 #### Addressing open issues
 We may have some issues already identified that you can address. Check the list [here](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues). If you see one you would like to work on, leave a comment in the issue saying so and describing your plan. When you've finished making edits, open a pull request with the fixes.
 
