@@ -28,7 +28,7 @@ exercises: 5
 A task should be something that users actually want to do that can be accomplished in a short period of time. When defining tasks for your rapid usability test, keep in mind that you usually don’t want to test users’ reading comprehension—you want to test the usability of the interface. Thus, avoid using terms visible in the interface in your task description. Nielsen Norman [has additional advice](https://www.nngroup.com/articles/better-usability-tasks/) on how to craft good task prompts. 
 
 ### Example: Being goal oriented and avoiding language from the user interface
-![](fig/ep2ex_avoidLang.png){alt="A screenshot of Slack that shows 'Reply in thread' as tooltip content."}
+![](fig/ep2ex_avoidLang.png){alt="Screenshot of an example Slack workspace, showing the #general channel open in desktop application window. The left sidebar lists Workspace, Home, DMs, Activity, Channels, and Apps. The main panel displays the top of the #general channel with a message from a user 'hcohoon' that says, 'Hey everyone! What time should we meet tomorrow?' Below the message, near the timestamp, is a visible button labeled 'Reply in thread' circled in red to emphasize it. At the top of the image, instructional text overlays the Slack workspace screenshot: a red 'X' next to the phrase 'Task: Reply to a message using a thread’ and a green check mark next to the phrase 'Task: Show how you would participate in multiple, separate conversations in one channel.’ The figure contrasts giving the user a task that repeats interface wording with one that focuses on a user goal, illustrating how task phrasing can shape what is being evaluated in a usability test."}
 
 After you’ve selected tasks for your usability study, time yourself completing study tasks to establish a baseline. To prevent fatigue, you want to aim for your session to be under 30 minutes. Allowing 10 minutes for non-task activities like instructions and interview questions means you should have no more than 20 minutes for task completion. Reduce the number or complexity of tasks you have planned if needed.
 
@@ -62,18 +62,59 @@ Because you are likely evaluating success or counting errors, you should define 
 
 ### Example: Success and Errors can mean multiple things
 Given a single task (“Show how you would participate in multiple, separate conversations in one channel”), success can still be achieved in multiple ways:
-![](fig/ep2ex_multiMeaning.png){alt="A screenshot of Slack that shows someone tagging another person in a comment and another person replying in a thread."}
+![](fig/ep2ex_multiMeaning.png){alt="Graphic showing that success on a single usability task can be achieved in more than one way. On the right side is a partial Slack conversation. A user named Chung shares a link to a blog post and asks for recommendations. Below the message appears a small label reading '1 reply,' indicating a threaded response. Beneath that, another user, Sam, has posted a reply beginning with '@Chung,' suggesting a response in the main channel. On the left side of the image, large text reads, 'Success can be achieved in multiple ways,' with arrows pointing toward both the threaded reply indicator and the channel reply. The figure illustrates that when defining evaluation metrics, researchers must decide what counts as successful task completion, since participants may accomplish the goal through different interaction paths."}
 
 ## Developing a script
 It is important that you give each of your participants the same experience when they join your study, so that results are comparable across participants. You want to avoid giving hints or causing confusion. You also want participants to feel comfortable talking with you. Following a script and prepping the test environment will make sure you succeed in these goals. The script should cover everything you’ll say to a participant so that someone else can stand in for you and still run the exact same study. 
 
 ### Example: Script for a study investigating the ease of sending direct messages
-![](fig/ep2ex_script.png){alt="A script for an interview shown along side four phases: orientation, rapport building, presenting tasks, and wrap up."}
+#### Orientation
+*Facilitator:* Thanks for joining me today. I’m _____ and I’ll be guiding you through the study session. We’re going to start with a couple of interview questions before moving on to doing a usability test for Slack. Just to assure you, this is not a test of your abilities—we’re here to evaluate the tool, not you. 
+
+*Facilitator:* I sent you the informed consent information over email. Did you have any questions about that?
+
+*Answer Questions*
+
+*Facilitator:* Great. Do I have permission to record this session then? 
+
+*If no, inform them you will take notes instead.*
+
+*Facilitator:* Okay, take a moment to minimize anything you don’t want showing up in the recording and let me know when you’re ready.
+
+*Start recording when permitted.*
+
+#### Build rapport
+*Facilitator:* Let’s start with a question. Can you recall what your initial impressions of Slack were when you first heard about it or saw it?
+
+*NOTES HERE*
+
+*Facilitator:* Alright. Let’s move on to the usability test. You are already part of our Slack channel, so I’m going to send you a link to one thread there. In a moment I’ll give you a task to accomplish but I want to be able to see what you’re doing while you accomplish the task, so can you please share your screen so that the Slack app is visible?
+
+*Wait for Slack to be shared.*
+
+*Facilitator:* Great. Here’s the link. I’ll wait for you to get there before I tell you the task.
+
+*Wait.*
+
+#### Present tasks
+*Facilitator:* Alright let’s get going, The first task I have for you is to send a message to Rae that only the two of you can see. 
+
+*NOTES HERE*
+
+*Facilitator:* Thank you! Here’s a link to a survey question I’d like you to answer about that task: https://linkhere.com
+
+*Send link*
+
+#### Wrap up
+*Facilitator:* That’s all I have for you today. Do you have any questions for me?
+
+*Answer questions and give another thanks*
+
 
 ### Example: Asking survey questions with anonymous IDs
 Often, when verbally asked a question that uses a Likert style scale (e.g., “On a scale of one to five, how easy was this task for you?”), participants will hesitate to provide a number and might give a more expansive answer. We recommend sending [self-report questions](https://docs.google.com/document/d/17ojRiqvnWwkDYMTYNXFed0BcuZnLZEyTCpsh_Rl2bcU/edit?tab=t.0#heading=h.1hjb3shsggu) like this as survey questions instead of asking them out loud. Google Forms are a simple way to do this. 
 
-![](fig/ep2ex_form.png){alt="A screenshot of Google Forms showing two questions: What is your participant ID? and Overall the task was 'blank.' The second question has the option to respond on a 1-5 scale of very easy to very difficult."}
+![](fig/ep2ex_form.png){alt="A screenshot of Google Forms showing two questions: 'What is your participant ID?' and, 'Indicate how much you agree with the following statement: I was frustrated when completing the task.' The first question has a line for short answer text responses. The second question has the option to respond on a 1-5 scale of strongly disagree to strongly agree."}
 
 After you have prepared your script, ask someone to help you pilot (i.e., test out) your study. Ideally you would do this pilot with someone who would make a good participant, but that benefit should be balanced against the need to include eligible people in your actual study. Run the pilot session exactly as you would a real session and keep track of any needed changes to your script; it’s very important that the tasks themselves are easily understood. This is also an opportunity to ensure the study takes an appropriate amount of time. Run multiple pilots if needed.
 
