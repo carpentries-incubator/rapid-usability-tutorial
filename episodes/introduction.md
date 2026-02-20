@@ -24,9 +24,11 @@ exercises: 15
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## What is usability?
-User experience research (UXR) is the investigation of how people interact with, make sense of, and respond to technology and services. Often, your goal with UXR will be to improve the usability of your product, making it easier to adopt and use. 
+**Rapid usability testing** is a form of user experience research (UXR) that explores how able users are to accomplish a task with a given tool. It is “rapid” because it involves talking to a small number of users for a short period of time. Rapid usability testing is meant to help you make decisions about how to design your tool and user experience. It’s not academic-level research rigor; it’s meant to be quick and good enough to make informed decisions. 
 
-Usability is made up of other attributes that determine how easy to use a technology or service is. [Nielsen Norman Group](https://www.nngroup.com/articles/usability-101-introduction-to-usability/), a respected authority on usability and user research, identifies several characteristics of usability (lightly adapted here):
+**UXR** is the investigation of how people interact with, make sense of, and respond to technology and services. Often, your goal with UXR methods such as rapid usability testing will be to improve the usability of your product, making it easier to adopt and use.
+
+Usability is made up of other attributes that determine how easy a technology or service is to use. [Nielsen Norman Group](https://www.nngroup.com/articles/usability-101-introduction-to-usability/), a respected authority on usability and user research, identifies several characteristics of usability (lightly adapted here):
 
 - *Learnability*: How easy is it for users to accomplish basic tasks the first time they encounter the design?
 - *Efficiency*: Once users have learned the design, how quickly can they perform tasks?
@@ -34,6 +36,8 @@ Usability is made up of other attributes that determine how easy to use a techno
 - *Errors*: How many errors do users make, how severe are these errors, and how easily can they recover from the errors?
 - *User satisfaction*: How pleasant is it to use the design? How positive or negative are users’ feelings about the tool?
 - *Utility*: Does it do what users need? Does it enable users to accomplish their goals?
+
+![](fig/ep1_infographic.png){alt='An infographic on User Experience Research and Rapid Usability testing'}
 
 :::::::::::::::::::::::::::::::::::::: challenge
 ### Exercise 1: One form of UXR-Rapid Usability Testing 
@@ -86,13 +90,7 @@ Facilitator: Thanks for joining me today. I’m Hannah and I’ll be guiding you
 *Facilitator:* Alright, well thank you for participating. I hope you enjoy the rest of your day.
 :::::::::::::::
 
-![](fig/ep1_infographic.png){alt='An infographic on User Experience Research and Rapid Usability testing'}
-
-There are many methods to study user experiences. You could do interviews, observation, participatory design, A/B testing, surveys, contextual inquiry, card sorting, or one of many more options. 
-
-Rapid usability testing is a kind of user research experience that focuses on how a small number of users interact with a specific software, technology, or service—it evaluates the experience. Rapid usability testing is meant to help you make decisions about how to design your tool and user experience. It’s not academic level rigor, it’s meant to be quick and good enough to make informed decisions. 
-
-In a testing session a researcher will ask a participant to perform a series of tasks or respond to a set of prepared prompts related to the tool being tested. Tasks should be well scoped; this makes them quick to accomplish and results easier to interpret. The researcher will observe the participant's behavior, may ask them to 'think aloud' as they perform the task, and will ask follow-up questions when necessary. Only 3-10 participants are needed, fewer if you include any interview questions as a follow up to your tasks. Five is a norm for sample size in usability testing.
+In a testing session a researcher will ask a participant to perform a series of tasks or respond to a set of prepared prompts related to the tool being tested. Tasks should be well scoped; this makes them quick to accomplish and results easier to interpret. The researcher will observe the participant's behavior, may ask them to "think aloud" as they perform the task, and will ask follow-up questions when necessary. Only 3-10 participants are needed, fewer if you include any interview questions as a follow up to your tasks. Five is a norm for sample size in rapid usability testing.
 
 You may wish to use rapid usability testing in order to compare user populations or design options. For example, “Do people prefer X or Y design?” You might find sometimes that neither design option is good but, especially if you have follow-up interview questions, you can learn why and can still integrate some improvement into the code quickly.
 
@@ -125,10 +123,12 @@ Rapid Usability Testing is one of many approaches in UXR. There are a variety of
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Usability refers to how easy it is to use a technology or service. 
-- User experience research is the investigation of how people interact with, make sense of, and respond to technology and services. 
-- UXR improves scientific software products by revealing differences between software developers’ and users’ perspectives and assumptions. UXR can also surface insights that can simplify tool use and adoption and help determine user needs amid a rapidly changing technological landscape.
-- UXR can measure a product’s learnability, efficiency, memorability, errors, or utility and user’s satisfaction. 
+- Rapid usability testing is a form of usability testing that focuses on how a small number of users interact with a specific software, technology, or service.
+- User experience research (UXR) is the investigation of how people interact with, make sense of, and respond to technology and services.
+- UXR improves scientific software tools by revealing differences between software developers’ and users’ perspectives and assumptions. 
+- UXR can also surface insights that can simplify tool use and adoption and help determine user needs amid a rapidly changing technological landscape.
+- UXR can measure a product’s learnability, efficiency, memorability, errors, or utility and user’s satisfaction.
+- Usability refers to how easy it is to use a technology or service.
 - Rapid usability tests are tools for observing how users interact with a tool or service. Tests should involve narrowly scoped tasks and measurable outcomes. Results from these tests are used to guide development work.
-- Rapid usability tests are most effective for teams that already have an interactive prototype, a minimum viable product, or more mature tool or service
+- Rapid usability tests are most effective for teams that already have an interactive prototype, a minimum viable product, or more mature tool or service.
 ::::::::::::::::::::::::::::::::::::::::::::::::
