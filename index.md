@@ -1,15 +1,23 @@
 ---
 site: sandpaper::sandpaper_site
 ---
+Usability underpins impact for all scientific software. If users can’t efficiently and effectively use your tool, they will switch to another or stop investigating that particular research question. Rapid usability testing empowers you to understand your software’s usability, improve it, and better serve users.
 
-# Rapid Usability Testing
+# Is this lesson for you? 
+Do you have an idea of which features need to be fixed in your scientific software but are not sure which to prioritize?
+Do you get the same questions or complaints from users all the time?
+Do you want to level up your tool so that you can drive scientific impact?
+
+If you answered yes to any of these, this lesson is for you. By learning to conduct rapid usability testing, you will have a new way to quickly assess your tool and identify meaningful improvements so users can do high-quality science confidently. This lesson will work for scientific apps, APIs, command line tools, web-based tools, or documentation.
+
+# Rapid Usability Testing Lesson Overview
 This lesson is a five episode training on rapid usability testing. The lesson is intended to be delivered via Zoom and the exercises reflect this, though you can modify the materials for an in person workshop or other delivery format. 
 
-This lesson should teach you to:
+This lesson will teach you to:
 
 - Identify scenarios and tasks appropriate for rapid usability testing
 - Recruit for a user study and track participants’ data
-- Conduct and analyze results from a rapid usability assessment
+- Conduct a rapid usability assessment and analyze results
 
 There are no prerequisites for this tutorial.
 
