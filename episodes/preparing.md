@@ -68,7 +68,48 @@ Given a single task (“Show how you would participate in multiple, separate con
 It is important that you give each of your participants the same experience when they join your study, so that results are comparable across participants. You want to avoid giving hints or causing confusion. You also want participants to feel comfortable talking with you. Following a script and prepping the test environment will make sure you succeed in these goals. The script should cover everything you’ll say to a participant so that someone else can stand in for you and still run the exact same study. 
 
 ### Example: Script for a study investigating the ease of sending direct messages
-![](fig/ep2ex_script.png){alt="A script for an interview shown along side four phases: orientation, rapport building, presenting tasks, and wrap up."}
+#### Orientation
+*Facilitator:* Thanks for joining me today. I’m _____ and I’ll be guiding you through the study session. We’re going to start with a couple of interview questions before moving on to doing a usability test for Slack. Just to assure you, this is not a test of your abilities—we’re here to evaluate the tool, not you. 
+
+*Facilitator:* I sent you the informed consent information over email. Did you have any questions about that?
+
+*Answer Questions*
+
+*Facilitator:* Great. Do I have permission to record this session then? 
+
+*If no, inform them you will take notes instead.*
+
+*Facilitator:* Okay, take a moment to minimize anything you don’t want showing up in the recording and let me know when you’re ready.
+
+*Start recording when permitted.*
+
+#### Build rapport
+*Facilitator:* Let’s start with a question. Can you recall what your initial impressions of Slack were when you first heard about it or saw it?
+
+*NOTES HERE*
+
+*Facilitator:* Alright. Let’s move on to the usability test. You are already part of our Slack channel, so I’m going to send you a link to one thread there. In a moment I’ll give you a task to accomplish but I want to be able to see what you’re doing while you accomplish the task, so can you please share your screen so that the Slack app is visible?
+
+*Wait for Slack to be shared.*
+
+*Facilitator:* Great. Here’s the link. I’ll wait for you to get there before I tell you the task.
+
+*Wait.*
+
+#### Present tasks
+*Facilitator:* Alright let’s get going, The first task I have for you is to send a message to Rae that only the two of you can see. 
+
+*NOTES HERE*
+
+*Facilitator:* Thank you! Here’s a link to a survey question I’d like you to answer about that task: https://linkhere.com
+
+*Send link*
+
+#### Wrap up
+*Facilitator:* That’s all I have for you today. Do you have any questions for me?
+
+*Answer questions and give another thanks*
+
 
 ### Example: Asking survey questions with anonymous IDs
 Often, when verbally asked a question that uses a Likert style scale (e.g., “On a scale of one to five, how easy was this task for you?”), participants will hesitate to provide a number and might give a more expansive answer. We recommend sending [self-report questions](https://docs.google.com/document/d/17ojRiqvnWwkDYMTYNXFed0BcuZnLZEyTCpsh_Rl2bcU/edit?tab=t.0#heading=h.1hjb3shsggu) like this as survey questions instead of asking them out loud. Google Forms are a simple way to do this. 
