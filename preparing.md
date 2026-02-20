@@ -62,12 +62,13 @@ Because you are likely evaluating success or counting errors, you should define 
 
 ### Example: Success and Errors can mean multiple things
 Given a single task (“Show how you would participate in multiple, separate conversations in one channel”), success can still be achieved in multiple ways:
+
 ![](fig/ep2ex_multiMeaning.png){alt="Graphic showing that success on a single usability task can be achieved in more than one way. On the right side is a partial Slack conversation. A user named Chung shares a link to a blog post and asks for recommendations. Below the message appears a small label reading '1 reply,' indicating a threaded response. Beneath that, another user, Sam, has posted a reply beginning with '@Chung,' suggesting a response in the main channel. On the left side of the image, large text reads, 'Success can be achieved in multiple ways,' with arrows pointing toward both the threaded reply indicator and the channel reply. The figure illustrates that when defining evaluation metrics, researchers must decide what counts as successful task completion, since participants may accomplish the goal through different interaction paths."}
 
 ## Developing a script
 It is important that you give each of your participants the same experience when they join your study, so that results are comparable across participants. You want to avoid giving hints or causing confusion. You also want participants to feel comfortable talking with you. Following a script and prepping the test environment will make sure you succeed in these goals. The script should cover everything you’ll say to a participant so that someone else can stand in for you and still run the exact same study. 
 
-### Example: Script for a study investigating the ease of sending direct messages
+### Example: Script for a study on sending direct messages
 #### Orientation
 *Facilitator:* Thanks for joining me today. I’m _____ and I’ll be guiding you through the study session. We’re going to start with a couple of interview questions before moving on to doing a usability test for Slack. Just to assure you, this is not a test of your abilities—we’re here to evaluate the tool, not you. 
 
