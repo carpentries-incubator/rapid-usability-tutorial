@@ -26,10 +26,6 @@ Thanks also go to the following organizations that have supported this effort:
 
 This work was funded by the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557.
 
-## Contributors
-
-[![All Contributors](https://img.shields.io/github/all-contributors/carpentries-incubator/rapid-usability-tutorial?color=ee8449&style=flat-square)](#contributors)
-
 ## License + Citation
 This lesson is shared under the [CC BY 4.0 license.](LICENCE.cff) You can re-use and re-mix it. Please cite:
 
