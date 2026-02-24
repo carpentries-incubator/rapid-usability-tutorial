@@ -5,8 +5,10 @@ This lesson was initially developed with grant funding from the [Alfred P. Sloan
 ### Contributors
 Thanks go to current and past contributors:
 
+- Lucy Andrews (content, feedback)
 - Kate Arneson (content development, feedback)
 - Erin Becker (consulting on format and approach, feedback, fixes)
+- Georgia Bullen (feedback)
 - Hannah Cohoon (content development, presentation)
 - Rajshree Deshmukh (feedback, presentation)
 - Eriol Fox (content development, feedback)
@@ -18,12 +20,15 @@ Thanks go to current and past contributors:
 - Drew Paine (feedback)
 - Lavanya Ramakrishnan (feedback)
 - Maryam Vareth (feedback)
+- Kirstie Whitaker (content, feedback)
 
 Thanks also go to the following organizations that have supported this effort:
 - [US-RSE user experience working group](https://us-rse.org/wg/ux/)
 - [The Carpentries](https://carpentries.org/)
 - [Superbloom](https://superbloom.design/)
 - [STRUDEL project](https://strudel.science/), current maintainers for this lesson
+
+This lesson is presently maintained by the STRUDEL Curriculum Working Group. Working group members include: Hannah Cohoon, Anh Le, and Georgia Bullen. To join the working group and become an official maintainer, [open an issue in this repo][issues] indicating your interest. You do not need to be a working group member to contribute; follow instructions below to contribute at any time.
 
 STRUDEL is an effort of the Lawrence Berkeley National Lab Scientific Data (SciData) Division UX team.
 The project is generously funded by the Alfred P. Sloan Foundation, Liz Vu & Josh Greenberg Program Officers, grants #10074 and #10572
@@ -32,6 +37,24 @@ The project is generously funded by the Alfred P. Sloan Foundation, Liz Vu & Jos
 This lesson was developed in partnership with The Carpentries and is part of their [incubator program](https://carpentries-incubator.org/). 
 
 Carpentries lessons are community-driven. By submitting your work, you agree to license it under the Creative Commons Attribution (CC BY 4.0) [license](LICENSE.md). You retain copyright, but grant The Carpentries the right to use, modify, and redistribute your contribution under this license. In return, we commit to reviewing contributions promptly, providing constructive feedback, and supporting your participation in our community. All contributions must follow The Carpentries’ [Code of Conduct](CODE_OF_CONDUCT.md), which ensures a respectful and inclusive environment.
+
+### Roadmap
+The Curriculum Working Group responsible for maintaining this lesson has defined the following roadmap, indicating current and future priorities:
+
+*Current priorities:*
+
+Resolving open issues
+
+Supporting community members in leading their own workshops that use the Rapid Usability Testing lesson
+
+*Near future priorities:*
+
+Continuing to refine lesson content so that it includes the minimum amount of content needed to empower learners
+
+*Long term priorities:*
+
+Supplement the Rapid Usability Testing lesson with additional lessons as part of a larger curriculum
+
 
 ### What and How to Contribute
 There are many ways to contribute, and we’d love for you to get involved. See below for some suggestions on the kinds of edits you can make and how we'll evaluate them.
@@ -78,8 +101,8 @@ Maintainers are contributors that have a formal responsibility keeping this less
 This involves reviewing and integrating contributions. If you reach out about this lesson
 or other STRUDEL projects via GitHub or email, it is likely you will get a response from one of our maintainers.
 
-Presently, Hannah Cohoon of Lawrence Berkeley National Lab's [STRUDEL project](https://strudel.science/) is the lesson's primary maintainer.
-If you would like to become a maintainer, [open an issue in this repo][issues] indicating your interest.
+The maintainers for this lesson are organized into STRUDEL's Curriculum Working Group, led by Hannah Cohoon of Lawrence Berkeley National Lab.
+If you would like to become a maintainer and working group member, [open an issue in this repo][issues] indicating your interest.
 
 #### Creators
 Creators are the original set of people who developed the content for this lesson and are the authors listed in
