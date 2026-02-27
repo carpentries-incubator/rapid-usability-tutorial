@@ -6,7 +6,7 @@ Curriculum Working Group members are responsible for developing and sustaining t
 - Ensure other contributors have adequate opportunity to engage  
 - Define and maintain a roadmap for expanding this lesson as part of a larger curriculum
 
-Read about STRUDEL's full governance system [here](https://github.com/strudel-science/.github/blob/main/README.md).
+Read about STRUDEL's full governance system [here](https://github.com/strudel-science/.github/blob/main/README.md). Read about how you can contribute without joining the working group in [CONTRIBUTING.md](CONTRIBUTING.md). 
 
 ## Roadmap
 *Current priorities:*
