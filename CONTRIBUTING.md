@@ -26,40 +26,18 @@ Thanks also go to the following organizations that have supported this effort:
 - [US-RSE user experience working group](https://us-rse.org/wg/ux/)
 - [The Carpentries](https://carpentries.org/)
 - [Superbloom](https://superbloom.design/)
-- [STRUDEL project](https://strudel.science/), current maintainers for this lesson
+- [STRUDEL project](https://strudel.science/)
 
 STRUDEL is an effort of the Lawrence Berkeley National Lab Scientific Data (SciData) Division UX team.
 The project is generously funded by the Alfred P. Sloan Foundation, Liz Vu & Josh Greenberg Program Officers, grants #10074 and #10572
 
 #### Curriculum Working Group
-This lesson is presently maintained by the STRUDEL Curriculum Working Group. Working group members include: Hannah Cohoon. To join the working group and become an official maintainer, [open an issue in this repo][issues] indicating your interest. You do not need to be a working group member to contribute; follow instructions below to contribute at any time.
-
-Curriculum Working Group maintainers are responsible for developing and sustaining the Rapid Usability Testing lesson in the Carpentries Incubator. They must:
-- Keep the lesson usable by the community. This includes stewardship of lesson content, website, contributor guide, and related documentation.  
-- Monitor issues, emails, and pull requests, even if they are not the primary contact point for a given issue, email, or pull request  
-- Ensure a maintainer replies to new issues, emails, and pull requests promptly, ideally within one week  
-- Ensure other contributors have adequate opportunity to engage  
-- Define and maintain a roadmap for expanding this lesson as part of a larger curriculum
-
+This lesson is presently maintained by the [STRUDEL Curriculum Working Group](WORKING-GROUP.md). You do not need to be a working group member to contribute; follow instructions below to contribute at any time.
 
 ### Contributor Agreement
 This lesson was developed in partnership with The Carpentries and is part of their [incubator program](https://carpentries-incubator.org/). 
 
-Carpentries lessons are community-driven. By submitting your work, you agree to license it under the Creative Commons Attribution (CC BY 4.0) [license](LICENSE.md). You retain copyright, but grant The Carpentries the right to use, modify, and redistribute your contribution under this license. In return, we commit to reviewing contributions promptly, providing constructive feedback, and supporting your participation in our community. All contributions must follow The Carpentries’ [Code of Conduct](CODE_OF_CONDUCT.md), which ensures a respectful and inclusive environment.
-
-### Roadmap
-The Curriculum Working Group responsible for maintaining this lesson has defined the following roadmap, indicating current and future priorities:
-
-*Current priorities:*
-Resolving open issues  
-Supporting community members in leading their own workshops that use the Rapid Usability Testing lesson
-
-*Near future priorities:*
-Continuing to refine lesson content so that it includes the minimum amount of content needed to empower learners
-
-*Long term priorities:*
-Supplement the Rapid Usability Testing lesson with additional lessons as part of a larger curriculum
-
+Carpentries lessons are community-driven. By submitting your work, you agree to license it under the Creative Commons Attribution (CC BY 4.0) [license](LICENSE.md). You retain copyright, but grant The Carpentries the right to use, modify, and redistribute your contribution under this license. In return, we commit to reviewing contributions promptly, providing constructive feedback, and supporting your participation in our community. All contributions must follow The Carpentries’ [Code of Conduct](CODE_OF_CONDUCT.md), which ensures a respectful and inclusive environment. We also follow the [STRUDEL Code of Conduct](https://github.com/strudel-science/.github/blob/main/CODE-OF-CONDUCT.md).
 
 ### What and How to Contribute
 There are many ways to contribute, and we’d love for you to get involved. See below for some suggestions on the kinds of edits you can make and how we'll evaluate them.
@@ -88,7 +66,7 @@ Feedback is as important as new content. Commenting on issues or reviewing pull 
 If you’d like to change the lesson website template itself, please see [The Carpentries Workbench][template-doc] documentation. Lesson maintainers handle content only, not the template.
 
 #### How we'll evaluate your contributions
-Pull requests will be evaluated for their accuracy, relevance to the lesson topic, pithiness, and tone. We aim to reduce rather than expand content, so we will avoid adding information without cutting content as well. The tone of your content additions should be professional and friendly. Overall, we seek to teach through exercises (also called Challenges) rather than regular text, so preference is given to conveying material through hands on work rather than simply reading/listening. Keep in mind, the lesson should provide just enough information for a novice to proceed—this is not a resource for experts but for newcomers, so scale your additions accordingly. If you make changes to an episode, please check that the "Overview" and "Key Points" don't need adjusting after your edits.
+Pull requests will be evaluated for their accuracy, relevance to the lesson topic, pithiness, tone, and alignment with our [roadmap](WORKING-GROUP.md). We aim to reduce rather than expand content, so we will avoid adding information without cutting content as well. The tone of your content additions should be professional and friendly. Overall, we seek to teach through exercises (also called Challenges) rather than regular text, so preference is given to conveying material through hands on work rather than simply reading/listening. Keep in mind, the lesson should provide just enough information for a novice to proceed—this is not a resource for experts but for newcomers, so scale your additions accordingly. If you make changes to an episode, please check that the "Overview" and "Key Points" don't need adjusting after your edits.
 
 ### Roles and Recognition
 A formal governance structure for this lesson is still being established; the procedures
@@ -102,12 +80,10 @@ People who have presented this lesson are also considered contributors. You can 
 by opening an issue or pull request or by sending us an [email][contact]. When suggestions or changes are integrated, your name will be added to the alphabetical list of contributors above.
 
 #### Maintainers
+The maintainers for this lesson are organized into [STRUDEL's Curriculum Working Group](WORKING-GROUP.md).
 Maintainers are contributors that have a formal responsibility keeping this lesson usable by the community.
 This involves reviewing and integrating contributions. If you reach out about this lesson
 or other STRUDEL projects via GitHub or email, it is likely you will get a response from one of our maintainers.
-
-The maintainers for this lesson are organized into STRUDEL's Curriculum Working Group, led by Hannah Cohoon of Lawrence Berkeley National Lab.
-If you would like to become a maintainer and working group member, [open an issue in this repo][issues] indicating your interest.
 
 #### Creators
 Creators are the original set of people who developed the content for this lesson and are the authors listed in
