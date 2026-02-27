@@ -24,5 +24,5 @@ Current members include:
 Hannah Cohoon, Lawrence Berkeley National Lab
 
 If you would like to become a working group member, [open an issue in this repo](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues) indicating your interest.
-You can[ contribute without becoming a working group member](https://github.com/carpentries-incubator/rapid-usability-tutorial/blob/main/CONTRIBUTING.md#what-and-how-to-contribute) as well. 
+You can [contribute without becoming a working group member](https://github.com/carpentries-incubator/rapid-usability-tutorial/blob/main/CONTRIBUTING.md#what-and-how-to-contribute) as well. 
 
