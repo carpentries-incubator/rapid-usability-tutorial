@@ -35,18 +35,22 @@ This lesson could use your help! Please see the [CONTRIBUTING.md file](https://g
 
 The [STRUDEL](https://strudel.science) project maintains this lesson with support from the [US-RSE user experience working group](https://us-rse.org/wg/ux/) through funding from  the Alfred P. Sloan Foundation, Liz Vu and Joshua Greenberg program managers, under Grant \#G-2024-22557. The team's thanks go to current and past contributors:
 
+- Lucy Andrews (content, feedback)
 - Kate Arneson (content development, feedback)
-- Erin Becker (consulting on format and approach)
+- Erin Becker (consulting on format and approach, feedback, fixes)
+- Georgia Bullen (feedback)
 - Hannah Cohoon (content development, presentation)
 - Rajshree Deshmukh (feedback, presentation)
 - Eriol Fox (content development, feedback)
 - Mary Goldman (content development, feedback, presentation)
 - Toby Hodges (consulting on format and approach)
+- Jenny Knuth (content, feedback)
 - Anh Le (content development, feedback)
 - Cody O’Donnell (feedback)
 - Drew Paine (feedback)
 - Lavanya Ramakrishnan (feedback)
 - Maryam Vareth (feedback)
+- Kirstie Whitaker (content, feedback)
 
 Thanks also go to the following organizations that have supported this effort:
 
