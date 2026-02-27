@@ -28,10 +28,19 @@ Thanks also go to the following organizations that have supported this effort:
 - [Superbloom](https://superbloom.design/)
 - [STRUDEL project](https://strudel.science/), current maintainers for this lesson
 
-This lesson is presently maintained by the STRUDEL Curriculum Working Group. Working group members include: Hannah Cohoon, Anh Le, and Georgia Bullen. To join the working group and become an official maintainer, [open an issue in this repo][issues] indicating your interest. You do not need to be a working group member to contribute; follow instructions below to contribute at any time.
-
 STRUDEL is an effort of the Lawrence Berkeley National Lab Scientific Data (SciData) Division UX team.
 The project is generously funded by the Alfred P. Sloan Foundation, Liz Vu & Josh Greenberg Program Officers, grants #10074 and #10572
+
+#### Curriculum Working Group
+This lesson is presently maintained by the STRUDEL Curriculum Working Group. Working group members include: Hannah Cohoon. To join the working group and become an official maintainer, [open an issue in this repo][issues] indicating your interest. You do not need to be a working group member to contribute; follow instructions below to contribute at any time.
+
+Curriculum Working Group maintainers are responsible for developing and sustaining the Rapid Usability Testing lesson in the Carpentries Incubator. They must:
+- Keep the lesson usable by the community. This includes stewardship of lesson content, website, contributor guide, and related documentation.  
+- Monitor issues, emails, and pull requests, even if they are not the primary contact point for a given issue, email, or pull request  
+- Ensure a maintainer replies to new issues, emails, and pull requests promptly, ideally within one week  
+- Ensure other contributors have adequate opportunity to engage  
+- Define and maintain a roadmap for expanding this lesson as part of a larger curriculum
+
 
 ### Contributor Agreement
 This lesson was developed in partnership with The Carpentries and is part of their [incubator program](https://carpentries-incubator.org/). 
@@ -42,17 +51,13 @@ Carpentries lessons are community-driven. By submitting your work, you agree to 
 The Curriculum Working Group responsible for maintaining this lesson has defined the following roadmap, indicating current and future priorities:
 
 *Current priorities:*
-
-Resolving open issues
-
+Resolving open issues  
 Supporting community members in leading their own workshops that use the Rapid Usability Testing lesson
 
 *Near future priorities:*
-
 Continuing to refine lesson content so that it includes the minimum amount of content needed to empower learners
 
 *Long term priorities:*
-
 Supplement the Rapid Usability Testing lesson with additional lessons as part of a larger curriculum
 
 
