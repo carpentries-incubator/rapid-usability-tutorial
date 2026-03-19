@@ -1,5 +1,5 @@
 # Curriculum Working Group
-Curriculum Working Group members are responsible for developing and sustaining the Rapid Usability Testing lesson in the Carpentries Incubator. They must:
+Curriculum Working Group members are responsible for developing and sustaining the Rapid Usability Testing lesson in the Carpentries Incubator; they are official maintainers. They must:
 - Keep the lesson usable by the community. This includes stewardship of lesson content, website, contributor guide, and related documentation.  
 - Monitor issues, emails, and pull requests, even if they are not the primary contact point for a given issue, email, or pull request  
 - Ensure a maintainer replies to new issues, emails, and pull requests promptly, ideally within one week  
@@ -22,6 +22,8 @@ Supplement the Rapid Usability Testing lesson with additional lessons as part of
 ## Membership
 Current members include:  
 Hannah Cohoon, Lawrence Berkeley National Lab
+Georgia Bullen, Superbloom Design
+Anh Le, Superbloom Design
 
 If you would like to become a working group member, [open an issue in this repo](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues) indicating your interest.
 You can [contribute without becoming a working group member](https://github.com/carpentries-incubator/rapid-usability-tutorial/blob/main/CONTRIBUTING.md#what-and-how-to-contribute) as well. 
