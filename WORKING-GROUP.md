@@ -21,8 +21,8 @@ Supplement the Rapid Usability Testing lesson with additional lessons as part of
 
 ## Membership
 Current members include:  
-Hannah Cohoon, Lawrence Berkeley National Lab
-Georgia Bullen, Superbloom Design
+Hannah Cohoon, Lawrence Berkeley National Lab  
+Georgia Bullen, Superbloom Design  
 Anh Le, Superbloom Design
 
 If you would like to become a working group member, [open an issue in this repo](https://github.com/carpentries-incubator/rapid-usability-tutorial/issues) indicating your interest.
